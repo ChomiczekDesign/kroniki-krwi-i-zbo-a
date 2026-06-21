@@ -27,12 +27,14 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 - Zaklęcie oczyszcza, brudzi albo porządkuje 1 niewielki nieożywiony przedmiot, ubranie, powierzchnię lub porcję materiału o **[[Encumbrance]] 0** w zasięgu **[[Zasięgi|Short]]**.
 - Efekt może usunąć kurz, błoto, sadzę, zwykły brud, prosty zapach albo powierzchowne zabrudzenie.
 - Nie usuwa trucizn, chorób, kwasów, efektów magicznych ani innych podobnych zagrożeń.
+
 #### Wzmocnienie (+ #Difficulty)
 - **Minimalna Ranga Magii:** 3
 - Wzmocniony efekt pozwala usuwać trucizny, kwasy oraz podobne substancje zalegające na powierzchni objętego celu.
 - Zaklęcie działa wyłącznie na efekty powierzchowne: osadzone na skórze, ubraniu, pancerzu, narzędziu, podłodze, ścianie albo innej zewnętrznej warstwie.
 - Nie usuwa substancji ani efektów znajdujących się wewnątrz ciała, przedmiotu lub materiału.
 - Zaklęcie nadal nie usuwa efektów magicznych, chorób, Critical Injuries, stanów ani innych podobnych dolegliwości.
+
 
 ### Odczyt Materii
 **[[Koncentracja]]:** Tak  
@@ -42,12 +44,14 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 - Zaklęcie nie ujawnia magicznych właściwości, zaklęć, klątw, wartości handlowej, pochodzenia historycznego, ukrytych mechanizmów, intencji twórcy ani słabych punktów przedmiotu.
 - Jeśli informacja wymaga specjalistycznej wiedzy, MG może pozwolić użyć zaklęcia jako uzasadnienia dla testu **Knowledge**, **Craft** albo innej odpowiedniej umiejętności, ale zaklęcie nie zastępuje tego testu.
 
+
 ### Płomień
 **[[Koncentracja]]:** Nie  
 - Zaklęcie pozwala wywołać drobną iskrę, płomyk albo punkt żaru lub zgasić 1 niewielkie, niegroźne źródło ognia w zasięgu **[[Zasięgi|Short]]**.
 - Efekt wystarcza do zapalenia świecy, hubki, suchego lontu, fajki albo podobnie łatwopalnego materiału lub zgaszenia świecy, lampy, pochodni, fajki albo małego ogniska.
 - Bazowy efekt nie może zadać bezpośrednich obrażeń, podpalić istoty, działać jak atak, wywołać pożaru ani ugasić magicznego ognia, płonącej istoty, dużego pożaru, rozżarzonej broni lub efektu zaklęcia bojowego.
 - Jeśli ogień jest częścią zagrożenia sceny, pułapki albo przeszkody, MG może uznać, że jego zapalenie, zgaszenie lub kontrolowanie wymaga silniejszej magii albo osobnego testu.
+
 #### Wzmocnienie (+ #Difficulty #Difficulty)  
 **[[Koncentracja]]:** Tak  
 - **Minimalna Ranga Magii:** 3  
@@ -60,6 +64,7 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 - Wzmocnienie nie usuwa innych efektów zaklęcia poza samym ogniem, płomieniem, żarem albo efektem spalania.  
 - Zaklęcie nadal nie może zostać użyte jako atak, nie zadaje bezpośrednich obrażeń w chwili rzucenia i nie może służyć do bezpośredniego podpalenia istoty.
 
+
 ### Poruszenie
 **[[Koncentracja]]:** Tak  
 - Zaklęcie pozwala czarującemu narzucić prosty ruch 1 nieożywionemu przedmiotowi o **[[Encumbrance]] 0** znajdującemu się w zasięgu **[[Zasięgi|Short]]**.
@@ -68,6 +73,7 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 - Ruch wywołany zaklęciem jest powolny, wyraźny i niezdarny. Nie wystarcza do atakowania, zadawania obrażeń, przewracania celów, rozbrajania postaci ani wykonywania czynności wymagających szybkości, siły lub precyzji.
 - Zaklęcie nie może zastępować testów umiejętności, otwierać zamków, rozbrajać mechanizmów ani aktywować skomplikowanych urządzeń.
 - Jeśli czarujący przestaje się koncentrować, przedmiot natychmiast opada, zatrzymuje się albo wraca do naturalnego stanu ruchu w najbliższy bezpieczny sposób określony przez MG.
+
 #### Manipulacja Przedmiotem (+ #Difficulty #Difficulty)
 **[[Koncentracja]]:** Tak  
 - **Minimalna Ranga Magii:** 2
@@ -79,6 +85,7 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 - Jeśli czarujący nie wyda przedmiotowi komendy, przedmiot pozostaje w pobliżu czarującego albo utrzymuje swoją względną pozycję wobec niego, zgodnie z decyzją MG.
 - Przedmiot nie działa samodzielnie, nie posiada własnej inicjatywy i nie wykonuje czynności bez komendy czarującego.
 - Zaklęcie nie pozwala ominąć wymagań użycia przedmiotu, takich jak znajomość odpowiedniej umiejętności, dostępna akcja, amunicja, przygotowanie, zasięg, jakość narzędzia albo ograniczenia wynikające z jego konstrukcji.
+
 #### Lewitacja (+ #Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 4
 - Zaklęcie może służyć do powolnego lewitowania prostych platform, przedmiotów albo istot żywych do **Silhouette 2**.
@@ -89,6 +96,7 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 - Istota chętna może zostać poruszona bez dodatkowego oporu.
 - Próba poruszenia istoty niechętnej wymaga ulepszenia trudności testu raz za każdą rangę jej **Discipline**.
 - Lewitacja wymaga **[[Koncentracja|Koncentracji]]**. Jeśli czarujący przestaje się koncentrować, cel opada, zatrzymuje się albo zaczyna spadać w sposób określony przez MG.
+
 #### Rzucanie Przedmiotami (+ różnie)
 - **Minimalna Ranga Magii:** 3
 - Zaklęcie pozwala rzucać przedmiotami, aby ranić przeciwników. Czarujący wybiera 1 przedmiot znajdujący się w zasięgu zaklęcia, po czym wykonuje nim atak dystansowy przeciwko celowi w maksymalnym zasięgu zaklęcia. Bazowy zasięg to Short
@@ -96,34 +104,41 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 	- Obrażenia zadawane przez przedmiot są równe 10x Silhouette lub Encumbrance. W przypadku przedmiotów o Silhouette/Encumbrance 0, przedmiot zadaje 5 obrażeń.
 - Dodatkowa trudność zaklęcia równa się Silhouette lub Encumbrance rzucanego przedmiotu.
 
+
 ### Porządek
 **[[Koncentracja]]:** Nie  
 - Zaklęcie układa, składa, zbiera albo sortuje niewielką liczbę drobnych, lekkich przedmiotów o **[[Encumbrance]] 0** znajdujących się w zasięgu **[[Zasięgi|Short]]**.
 - Może zebrać rozsypane monety, ułożyć papiery w stos, zwinąć sznurek, poskładać ubranie, uporządkować narzędzia albo rozdzielić podobne przedmioty według oczywistej cechy.
 - Nie pozwala znaleźć ukrytych informacji, rozwiązać zagadki, wykryć fałszerstwa ani wykonać pracy wymagającej testu umiejętności.
 
+
 ### Smak
 **[[Koncentracja]]:** Nie  
 - Zaklęcie zmienia smak albo zapach pożywienia o **[[Encumbrance]] 0** w zasięgu **[[Zasięgi|Short]]**.
 - Efekt może sprawić, że jedzenie lub napój stanie się słodszy, bardziej gorzki, kwaśny, słony, świeższy, przyprawiony, mdły albo pozbawiony nieprzyjemnego aromatu.
 - Zmiana dotyczy wyłącznie doznań zmysłowych. Zaklęcie nie poprawia jakości pożywienia, nie usuwa trucizn, chorób, zepsucia, skażenia, działania alchemicznego ani faktycznych właściwości substancji.
+
 #### Wzmocnienie (+ #Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 3
 - Wzmocniony efekt pozwala rzeczywiście poprawić jakość pożywienia, napoju albo innej nieożywionej substancji o **[[Encumbrance]] 0**, zamiast jedynie maskować jej smak lub zapach.
 - Zaklęcie może odświeżyć jedzenie, usunąć naturalne zepsucie, poprawić jego właściwości odżywcze albo uczynić je zdatnym do spożycia, zgodnie z decyzją MG.
 - Zgodnie z decyzją MG, zaklęcie może usunąć z pożywienia trucizny, choroby, efekty magiczne, lub toksyny znane rzucającemu.
 - Zaklęcie nie tworzy wartościowego pożywienia z niczego i nie zwiększa jego ilości, ale może poprawić jego jakość i wartość odżywczą.
+
+
 ### Światło
 **[[Koncentracja]]:** Tak  
 - Zaklęcie tworzy słabe, widmowe źródło światła w zasięgu **[[Zasięgi|Short]]**, które rozświetla obszar do zasięgu **[[Zasięgi|Short]]** od siebie.
 - Światło wystarcza, aby widzieć w ciemności na niewielkim obszarze, podobnie jak przy świecy, lampce oliwnej albo bladym magicznym poblasku.
 - Światło nie oślepia, nie rozprasza magicznej ciemności, nie zadaje obrażeń istotom wrażliwym na światło i nie może zostać użyte do ataku.
+
 #### Wzmocnienie (+ #Difficulty)
 - **Minimalna Ranga Magii:** 3
 - Wzmocniony efekt pozwala stworzyć silne źródło światła, które rozświetla obszar do zasięgu **[[Zasięgi|Medium]]** od siebie.
 - Czarujący może również nadać światłu bardziej skupiony kierunek, tworząc snop, promień albo stożek światła zamiast rozproszonego poblasku.
 - Według decyzji MG, nagłe użycie skupionego światła może chwilowo oślepić albo rozproszyć istotę patrzącą bezpośrednio w jego źródło. Jeśli efekt ma znaczenie mechaniczne, MG może wymagać odpowiedniego testu albo pozwolić wydać #Advantage / #Triumph na jego wywołanie.
 - Światło nadal nie zadaje obrażeń, nie rozprasza magicznej ciemności i nie działa jak zaklęcie ataku.
+
 
 ### Temperatura
 **[[Koncentracja]]:** Tak  
@@ -133,16 +148,19 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 - Zmiana temperatury zachodzi powoli. W ustrukturyzowanym starciu zaklęcie co do zasady nie zapewnia użytecznego efektu bojowego, choć MG może pozwolić osiągnąć zauważalny rezultat po wielu turach koncentracji.
 - Zaklęcie nie może zadać obrażeń, zamrozić celu, zagotować krwi, podpalić materiału, zniszczyć przedmiotu ani stworzyć warunków ekstremalnych bez zgody MG.
 
+
 ### Wiadomość
 **[[Koncentracja]]:** Nie  
 - Zaklęcie pozostawia w dotkniętym przedmiocie, znaku, powierzchni albo miejscu krótką wiadomość, wspomnienie wrażenia lub prosty ładunek emocjonalny.
 - Wiadomość może mieć postać słów, obrazu, symbolu, zapachu, melodii, uczucia, wspomnienia dotyku albo innego prostego przekazu zmysłowego.
 - Odczytanie wiadomości wymaga dotknięcia przedmiotu lub wejścia z nim w bezpośrednią interakcję, zgodnie z opisem zaklęcia.
 - Wiadomość nie może sama z siebie zmuszać do działania, wpływać na emocje celu jak efekt społeczny, przekazywać informacji na odległość ani działać jak alarm.
+
 #### Wzmocnienie (+ #Difficulty)
 - **Minimalna Ranga Magii:** 3
 - Wzmocniony efekt pozwala pozostawić bardziej złożoną wiadomość: dłuższy przekaz, dokładne instrukcje, sekwencję obrazów, wspomnienie sceny, złożone wrażenie emocjonalne albo inny wielowarstwowy komunikat.
 - Wiadomość może zostać ukryta, zaszyfrowana albo zabezpieczona tak, aby była trudna do zauważenia lub zrozumienia bez spełnienia określonego warunku. Warunkiem odczytania wiadomości może być prosty gest, wypowiedzenie słowa, dotknięcie właściwego miejsca, użycie odpowiedniego przedmiotu, posiadanie konkretnej wiedzy albo inna podobna czynność ustalona przy tworzeniu zaklęcia.
+
 
 ### Wilgoć
 **[[Koncentracja]]:** Nie  
@@ -152,6 +170,7 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 	- Jeśli w miejscu działania jest bardzo sucho, gorąco albo brakuje dostępnej wilgoci, MG może zwiększyć trudność testu albo uznać, że bazowy efekt nie wystarczy do wywołania zauważalnego rezultatu.
 - Zaklęcie nie tworzy dużej ilości wody, nie pozwala ugasić pożaru, nie powoduje poślizgnięcia, nie niszczy przedmiotów i nie może zostać użyte jako atak.
 - Nie usuwa trucizn, kwasów, krwi, substancji alchemicznych, magicznych cieczy ani efektów zaklęć, chyba że MG uzna inaczej.
+
 #### Wzmocnienie (+ #Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 3
 - Wzmocniony efekt pozwala skondensować albo stworzyć niewielką ilość czystej wody w zasięgu **[[Zasięgi|Short]]**.
@@ -161,11 +180,13 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 - Większa ilość wody może, według decyzji MG, ugasić niewielki pożar, stworzyć śliską powierzchnię, przemoczyć przedmiot albo wywołać inne proste skutki sceniczne wynikające z obecności wody.  
 - Zaklęcie nie może zostać użyte do bezpośredniego ataku. 
 
+
 ### Wyczucie Magii
 **[[Koncentracja]]:** Tak  
 - Zaklęcie pozwala wyczuć obecność aktywnego efektu magicznego, magicznego przedmiotu albo wyraźnie magicznej obecności w zasięgu **[[Zasięgi|Short]]**.
 - Czarujący poznaje jedynie, czy magia jest obecna oraz z którego ogólnego kierunku ją wyczuwa.
 - Zaklęcie nie ujawnia dokładnej natury magii, jej źródła, siły, Tradycji Magicznej, sposobu działania ani tego, czy jest bezpieczna.
+
 #### Wzmocnienie (+ #Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 3
 - Wzmocniony efekt pozwala uzyskać dokładniejsze informacje na temat wykrytej magii: jej natury, źródła, względnej siły, Tradycji Magicznej, sposobu działania albo potencjalnego zagrożenia.
