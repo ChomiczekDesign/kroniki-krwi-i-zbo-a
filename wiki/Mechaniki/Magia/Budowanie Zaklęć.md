@@ -21,7 +21,7 @@ Każde zaklęcie składa się z następujących elementów:
 ## Tworzenie nowego zaklęcia
 
 Gdy postać zdobywa nowe zaklęcie, buduje je według poniższych zasad:
-- Wybiera Bazową Magię z listy. Ten wybór dyktuje podstawowe efekty zaklęcia: <br>[[Atakowanie]], [[Bariera]], [[Klątwa]], [[Przywołanie]], [[Uleczenie]], [[Wzmocnienie]],
+- Wybiera Bazową Magię z listy. Ten wybór dyktuje podstawowe efekty zaklęcia: <br>[[Atakowanie]], [[Bariera]], [[Klątwa]], [[Przywołanie]], [[Uleczenie]], [[Wzmocnienie]], [[Użyteczna]]
 - Wybiera Tradycję magii, z której zaklęcie korzysta.Ten efekt dyktuje używaną Charakterystykę i sposób rzucania zaklęcia.<br>[[Magia Pierwotna]], [[Magia Werbalna]], [[Magia Arkana]] 
 - Może następnie wybrać <strong>0 lub więcej efektów zaklęcia</strong> z tabeli efektów dostępnych dla danego Bazowego Efektu.
 - Na końcu nadaje zaklęciu własną <strong>nazwę</strong>.
