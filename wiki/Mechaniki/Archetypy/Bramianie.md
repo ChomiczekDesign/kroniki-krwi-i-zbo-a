@@ -1,4 +1,4 @@
-# Bramianin
+# Bramianie
 
 > Ten artykuł opisuje **Bramian jako archetyp mechaniczny**.
 >
@@ -10,7 +10,7 @@
 
 ## Początkowe bonusy
 
-- Darmowy Talent "Drugi Język": 
+- Darmowy Talent **Drugi Język**: 
     - Wybierz 1 język z poniższych: [[Setting/Kultury/Lioreńczycy#Lioreński|Lioreński]], Krasnoludzki Nizinny, Brannach. 
     - Wybrany język jest postaci znany w stopniu umożliwiającym płynną rozmowę i staje się drugim językiem początkowym postaci.
 
