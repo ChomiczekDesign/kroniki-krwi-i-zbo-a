@@ -76,9 +76,34 @@ Komponenty materiałowe nie są zwykle liczone jako pojedyncze sztuki, lecz jako
 ## Kategorie materiałów
 
 Przy korzystaniu z komponentów materiałowych postać używa określonej kategorii materiałów, zależnej od swojej praktyki, tradycji albo przygotowania. Mogą to być między innymi:
-- materiały roślinne,
-- materiały zwierzęce,
-- materiały ludzkie,
-- materiały metalowe,
-- materiały symboliczne.
+- Roślinne:
+	- **Kora / żywice / soki drzew**: kora brzozy, dębowa kora, żywica sosny, bursztyn (jako „zastygła żywica”), sok brzozowy
+    - **Nasiona / ziarno / plony**: ziarno żyta, mak, groch, jabłka, suszone śliwki, otręby
+    - **Grzyby / porosty / mchy**: huby, purchawki, mech, porosty z głazów
+    - **Zioła “użytkowe”**: czosnek, chrzan, koper, mięta, piołun (zamiast tylko „kwiatków”)
+    - **Kwiaty i rośliny leśne**
+- Zwierzęce: 
+	- **Kości / zęby / poroża**: kość, ząb dzika, poroże jelenia, rybie ości
+	- **Skóry / futra / włosie**: futro, skóra, sierść konia, wełna, skóra węża
+  - **Pióra / skrzydła / łuski**: pióro kruka, gęsie pióra, łuski ryb, wylinka węża
+  - **Tłuszcze / woski / mleko**: łój, smalec, wosk pszczeli, miód, mleko/serwatka
+  - **Ślady i „resztki życia”**: krew (jeśli pasuje do tonu), paznokcie, oddech w fiolce, trop w glinie
+- Ludzkie:
+	- **Tkaniny / nici / węzły**: skrawki płótna, nici, sznur, wstążki, węzły, hafty
+  - **Słowa zapisane**: listy, przysięgi na papierze, skrawki modlitw, zaklęcia na brzozowej korze
+  - **Monety / miary / znaki długu**: grosz, żeton, pieczęć, ołowiana plomba, „kwit”
+  - **Jedzenie i gościnność**: chleb, okruchy, sól, kasza, ziołowa nalewka, zakwas
+  - **Rzeczy „noszone”**: guzik, sprzączka, igła, grzebień, kawałek buta
+- Metalowe:
+	- **Żelazo / stal / rdza**: gwóźdź, podkowa, ostrze, opiłki, rdza z bramy
+	- **Miedź / brąz / cyna**: drut, blacha, dzwonek, nity
+	- **Złoto / Srebro / metale szlachetne**: pierścionki, kolczyki, ozdoby, srebrne łyżki
+	- **Odłamki narzędzi**: ząb piły, fragment sierpa, klin, sprężyna
+- Symboliczne: - **Archetypy w formie przedmiotów**:
+	- _Nasiono_ = początek / potencjał
+  - _Klucz_ = dostęp / przejście
+  - _Igła_ = precyzja / przełamanie
+  - _Lustro_ = prawda / fałsz / odbicie
+  - _Węzeł_ = więź / zakaz
+  - _Okruch_ = resztka / pamięć
 - inne, według uznania MG
