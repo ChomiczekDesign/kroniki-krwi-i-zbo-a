@@ -8,7 +8,7 @@ Kroniki rozgrywane są na systemie **[Genesys](https://online.anyflip.com/afeku/
 
 
 ## Systemy i HB
-- [[Mechaniki/Magia|Magia i  Czary]]
+- [[Mechaniki/Magia|Zaklęcia]]
   - [[Budowanie Zaklęć]]
   - [[Koncentracja]]
   - Tradycje Magii:
@@ -16,6 +16,10 @@ Kroniki rozgrywane są na systemie **[Genesys](https://online.anyflip.com/afeku/
     - [[Magia Pierwotna]]
     - [[Magia Werbalna]]
   - Bazy Magii: <br>[[Atakowanie]], [[Bariera]], [[Klątwa]], [[Przywołanie]], [[Uleczenie]], [[Wzmocnienie]]
+- [[Rytuały]]
+  - [[Backlash]]
+  - [[Moc Rytuału]]
+  - [[Rytuały Chaotyczne]]
 
 ## [[Podstawy Mechaniki|Podstawy Systemu]]
 - [[Lista Umiejętności]]
