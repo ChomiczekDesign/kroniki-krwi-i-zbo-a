@@ -20,7 +20,7 @@ Każdy rytuał określa:
 - 1.**Spełnij Wymagania** rytuału i przygotuj Instrumenty.
 - 2.**Wybierz Prowadzącego** i wszystkich uczestników.
 - 3.Prowadzący wykonuje **test Old Lore** przeciwko Trudności Rytuału.
-- 4. Sprawdź:
+- 4.Sprawdź:
     - sukces lub porażkę,
     - skrócenie czasu przez #Success,
     - możliwość wystąpienia **Backlashu**.
