@@ -43,7 +43,7 @@ Każdy rytuał określa:
 ## 2. Prowadzący i uczestnicy
 - Jedna osoba zostaje **Prowadzącym Rytuał** i wykonuje rzut rytualny.
 - W rytuale może uczestniczyć dowolna liczba dodatkowych osób.
-- Aby normalnie uczestniczyć w rytuale, postać musi władać magią, **lub** posiadać co najmniej **1 rangę Old Lore**.
+- Aby normalnie uczestniczyć w rytuale, postać musi władać magią, **lub** posiadać co najmniej **1 rangę Old Lore** lub **Sacred Lore**.
 	- Sama obecność dodatkowych uczestników nie dodaje #Boost do rzutu rytualnego.
 	- Większa liczba uczestników pozwala jednak rozłożyć pomiędzy więcej osób obciążenie związane z utrzymywaniem rytuału.
 	- **Grupa Minionów** jest traktowana jak jeden uczestnik rytuału, chyba że opis konkretnego rytuału mówi inaczej.
@@ -55,7 +55,7 @@ Każdy rytuał określa:
 	- zamiast **Strainu otrzymuje odpowiadającą mu liczbę Wounds**.
 - Wykorzystywanie Ofiar jest niezwykle niebezpieczną i destrukcyjną praktyką. Rytuał nie obciąża wtedy wyłącznie wytrzymałości psychicznej i magicznej ofiary — zaczyna bezpośrednio zużywać jej ciało.
 ## 3. Rzut rytualny
-- Prowadzący wykonuje test **Old Lore** przeciwko Trudności Rytuału.
+- Prowadzący wykonuje test **Old Lore** lub **Sacred Lore** przeciwko Trudności Rytuału.
 - Trudność może zostać zmodyfikowana przez:
 	- instrumenty rytualne,
 	- użyte komponenty,
