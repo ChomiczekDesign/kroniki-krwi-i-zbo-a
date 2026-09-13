@@ -17,20 +17,20 @@ Każdy rytuał określa:
 - **Zasady Specjalne** — wszystkie reguły charakterystyczne dla danego rytuału.
 
 # Skrócona procedura rytuału
-1) **Spełnij Wymagania** rytuału i przygotuj Instrumenty.
-2) **Wybierz Prowadzącego** i wszystkich uczestników.
-3) Prowadzący wykonuje **test Old Lore** przeciwko Trudności Rytuału.
-4) Sprawdź:
-    - sukces lub porażkę,
-    - skrócenie czasu przez #Success,
-    - możliwość wystąpienia **Backlashu**.
-5) Jeśli wystąpił Backlash — rzuć **d8 + modyfikatory** na tabelę Backlashu.
-6) Rozpocznij odliczanie pozostałego **Czasu Rytuału**.
-7) Za każdą godzinę:
-    - wylosuj uczestnika,
-    - przydziel mu Strain wynikający z **Mocy Rytuału**.
-8) Uczestnicy mogą opuszczać rytuał, ale **nikt nie może dołączyć po jego rozpoczęciu**.
-9) Po upływie wymaganego czasu rytuał osiąga swój efekt, o ile nie został wcześniej przerwany.
+1. **Spełnij Wymagania** rytuału i przygotuj Instrumenty.
+1. **Wybierz Prowadzącego** i wszystkich uczestników.
+1. Prowadzący wykonuje **test Old Lore** przeciwko Trudności Rytuału.
+1. Sprawdź:
+    1. sukces lub porażkę,
+    1. skrócenie czasu przez #Success,
+    1. możliwość wystąpienia **Backlashu**.
+1. Jeśli wystąpił Backlash — rzuć **d8 + modyfikatory** na tabelę Backlashu.
+1. Rozpocznij odliczanie pozostałego **Czasu Rytuału**.
+1. Za każdą godzinę:
+    1. wylosuj uczestnika,
+    1. przydziel mu Strain wynikający z **Mocy Rytuału**.
+1. Uczestnicy mogą opuszczać rytuał, ale **nikt nie może dołączyć po jego rozpoczęciu**.
+1. Po upływie wymaganego czasu rytuał osiąga swój efekt, o ile nie został wcześniej przerwany.
 
 # Przeprowadzanie Rytuału
 
