@@ -6,8 +6,6 @@ Rytuał może trwać od godziny do wielu godzin lub dni. Często wymaga przygoto
 
 Rytuały są osobną formą używania magii i **nie korzystają bezpośrednio z zasad budowania zaklęć**. Każdy rytuał posiada własny efekt, wymagania i parametry.
 
----
-
 ## Elementy rytuału
 Każdy rytuał określa:
 - **Efekt** — co rytuał ma osiągnąć.
@@ -18,25 +16,22 @@ Każdy rytuał określa:
 - **Instrumenty Rytualne** — jeśli są wymagane. Mogą modyfikować trudność, zabezpieczać uczestników albo zmieniać działanie rytuału.
 - **Zasady Specjalne** — wszystkie reguły charakterystyczne dla danego rytuału.
 
----
-
 # Skrócona procedura rytuału
-1. **Spełnij Wymagania** rytuału i przygotuj Instrumenty.
-2. **Wybierz Prowadzącego** i wszystkich uczestników.
-3. Prowadzący wykonuje **test Old Lore** przeciwko Trudności Rytuału.
-4. Sprawdź:
+1) **Spełnij Wymagania** rytuału i przygotuj Instrumenty.
+2) **Wybierz Prowadzącego** i wszystkich uczestników.
+3) Prowadzący wykonuje **test Old Lore** przeciwko Trudności Rytuału.
+4) Sprawdź:
     - sukces lub porażkę,
     - skrócenie czasu przez #Success,
     - możliwość wystąpienia **Backlashu**.
-5. Jeśli wystąpił Backlash — rzuć **d8 + modyfikatory** na tabelę Backlashu.
-6. Rozpocznij odliczanie pozostałego **Czasu Rytuału**.
-7. Za każdą godzinę:
+5) Jeśli wystąpił Backlash — rzuć **d8 + modyfikatory** na tabelę Backlashu.
+6) Rozpocznij odliczanie pozostałego **Czasu Rytuału**.
+7) Za każdą godzinę:
     - wylosuj uczestnika,
     - przydziel mu Strain wynikający z **Mocy Rytuału**.
-8. Uczestnicy mogą opuszczać rytuał, ale **nikt nie może dołączyć po jego rozpoczęciu**.
-9. Po upływie wymaganego czasu rytuał osiąga swój efekt, o ile nie został wcześniej przerwany.
+8) Uczestnicy mogą opuszczać rytuał, ale **nikt nie może dołączyć po jego rozpoczęciu**.
+9) Po upływie wymaganego czasu rytuał osiąga swój efekt, o ile nie został wcześniej przerwany.
 
----
 # Przeprowadzanie Rytuału
 
 ## 1. Przygotowanie
@@ -102,43 +97,11 @@ Każdy rytuał określa:
 - Instrument może być prostym przedmiotem symbolicznym albo skomplikowaną konstrukcją magiczną.
 - Jego dokładne działanie określa opis rytuału oraz — jeśli został wykonany przez postać — **wynik jego stworzenia**.
 - Instrumenty nie muszą być uniwersalne. Przedmiot przygotowany do konkretnego rytuału może nie mieć żadnego zastosowania przy innym.
-# Moc Rytuału
-Moc Rytuału określa bazowy koszt Strainu i podatność na Backlash. Nie określa jego trudności.
 
-| **Moc Rytuału** | **Strain / h** | **Backlash**                               | Charakter                                                                                              |
-| --------------- | -------------: | ------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| **Nikła**       |              0 | ---                                        | Drobne rytuały, błogosławieństwa, symboliczne działania magiczne.                                      |
-| **Słaba**       |              1 | #Despair                                   | Niewielka ilość energii; pojedynczy mag może długo utrzymywać rytuał.                                  |
-| **Znaczna**     |              2 | #Despair / #Threat #Threat #Threat #Threat | Typowy „prawdziwy” rytuał magiczny. Energia jest już wystarczająca, by wymknąć się spod kontroli.      |
-| **Potężna**     |              3 | #Despair / #Threat #Threat #Threat         | Duża skala: wiele osób, duży teren albo głęboka ingerencja w magię.                                    |
-| **Ogromna**     |              4 | #Despair / #Threat #Threat                 | Magia na granicy tego, co można bezpiecznie kontrolować. Nawet drobny błąd może spowodować katastrofę. |
+![[Moc Rytuału]]
 
-# Backlash
-- **Backlash** oznacza gwałtowne wymknięcie się energii rytuału spod kontroli. Jego pojawienie się nie musi oznaczać końca rytuału - może on nadal trwać, ale pojawia się dodatkowy negatywny efekt.
-- Backlash może wystąpić **maksymalnie raz podczas jednego rytuału** i jego pojawienie jest natychmiastowe po rozpoczęciu rytuału.
-- Backlash występuje, jeśli na **rzucie rytualnym** pojawi się: #Despair **lub** odpowiednia liczba #Threat.
-	- Liczba #Threat potrzebnych do wywołania Backlashu zależy od **Mocy Rytuału**
-- Po wywołaniu Backlashu wykonuje się **rzut d8 na tabelę Backlashu**. Im wyższy wynik, tym poważniejszy efekt.
-- Każdy kolejny #Despair lub pełny zestaw #Threat  daje **+1 do rzutu na Backlash**.
-	- Modyfikatory do rzutu na Backlash pozwalają osiągnąć wyniki **9–10**, których nie można uzyskać na samym d8. Są one zarezerwowane dla szczególnie poważnych destabilizacji rytuału.
-- Jeżeli wylosowany Backlash nie może mieć zastosowania do danego rytuału, MG wybiera najbliższy pasujący efekt Backlashu o tej samej lub niższej wartości.
+![[Backlash]]
 
-| **Wynik** | **Backlash**                 | **Efekt**                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| --------: | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|     **1** | **Odrzut**                   | Losowy uczestnik przyjmuje **5 Strain**. Jeśli jest to minion, automatycznie traci przytomność i zostaje wyrzucony z rytuału.                                                                                                                                                                                                                                                                                                          |
-|     **2** | **Fala zwrotna**             | **Każdy uczestnik** przyjmuje **4 Strain**. Wszystkie miniony automatycznie tracą przytomność i zostają wyrzucone z rytuału.                                                                                                                                                                                                                                                                                                           |
-|     **3** | **Magiczne poparzenie**      | Losowy uczestnik przyjmuje **3 Strain + 2 Wounds ignorujące Soak**. Jeśli jest to minion, automatycznie traci przytomność i zostaje wyrzucony z rytuału lub umiera. Forma obrażeń zależy od natury rytuału.<br>Fabularnie: poparzenia, pękające naczynia, oszronienie skóry, czarne żyły itd. zależnie od rytuału.                                                                                                                     |
-|     **4** | **Opór przepływu**           | Rytuał zaczyna walczyć z prowadzącymi. **Czas rytuału +1h za każdą osobę lub grupę minionów uczestniczących w rytuale.** Godzinowy koszt rytuału wzrasta o **+1 Strain/h**.                                                                                                                                                                                                                                                            |
-|     **5** | **Rozstrojenie instrumentu** | Losowy instrument rytualny zostaje przeciążony i **traci jedną ze swoich właściwości/korzyści** do końca rytuału.                                                                                                                                                                                                                                                                                                                      |
-|     **6** | **Wyrwanie z kręgu**         | Losowy uczestnik lub grupa minionów otrzymuje Strain aż do przekroczenia swojego **Strain Threshold**, traci przytomność i zostaje magicznie wyrzucona z rytuału. **Nie może już do niego wrócić.**                                                                                                                                                                                                                                    |
-|     **7** | **Żywa Kotwica**             | Jeden losowy instrument rytualny **przestaje działać**. Rytuał może być kontynuowany tylko wtedy, jeśli uczestnicy przejmą jego funkcję. Od tej chwili **co godzinę losowy uczestnik przyjmuje dodatkowe 2 Wounds ignorujące Soak**. Rytuał można nadal przerwać normalnie.                                                                                                                                                            |
-|     **8** | **Zniekształcenie wzorca**   | Jedna z intencji rytuału zostaje **wypaczona lub przesterowana**. Rytuał nadal może się udać, ale jego rezultat otrzymuje dodatkowy, niepożądany efekt zgodny z naturą rytuału.<br>Np. _dobrobyt_ → nienaturalnie agresywny wzrost; _odnowa_ → gwałtowne cykle wzrostu i obumierania; _stabilność_ → ziemia staje się zbyt „nieruchoma”, twarda lub odporna na zmiany.                                                                 |
-|     **9** | **Zerwanie rytuału**         | Przepływ gwałtownie się załamuje. **Rytuał zostaje natychmiast przerwany i musi zostać rozpoczęty od początku.** <br>Miejsce zostaje magicznie uszkodzone: kolejna próba tego rytuału w tym miejscu ma trudność **ulepszoną raz**. <br>Jeden losowy instrument dodatkowo zostaje uszkodzony i musi zostać naprawiony przed kolejną próbą.                                                                                              |
-|    **10** | **Inwersja**                 | Rytuał odwraca swój przepływ.<br>Każdy uczestnik natychmiast przyjmuje **3 Wounds ignorujące Soak + 3 Strain**. <br>Dodatkowo koszt każdej godziny wzrasta o **+1 Strain** i **+1 Wound**. <br>Rytuału **nie można normalnie zatrzymać**. Każdy uczestnik może próbować wyrwać się testem **Discipline o trudności rytuału**; po wyjściu nie może powrócić. Rytuał pozostawia poważną anomalię właściwą **odwrotności swojej natury**. |
+![[Rytuały Chaotyczne]]
 
-## Rytuały Chaotyczne
-- Niektóre rytuały mogą posiadać cechę **Chaotyczny**. 
-- **Chaotyczny Rytuał daje +2 do każdego rzutu na Backlash
-- Rytuał Chaotyczny jest z natury niestabilny i trudny do bezpiecznego kontrolowania.
-- Cecha nie zwiększa prawdopodobieństwa wystąpienia Backlashu — zwiększa **jego dotkliwość**, jeśli Backlash już nastąpi.
 
