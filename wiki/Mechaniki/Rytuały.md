@@ -80,6 +80,9 @@ Każdy rytuał określa:
 	- nie uczestniczy już w jego dalszym utrzymywaniu,
 	- nie jest uwzględniany przy kolejnych efektach Kosztu Rytuału
 	- **nie może ponownie dołączyć do tego samego rytuału**.
+ - Uczestnik opuszcza rytuał w momencie, w którym znajdzie się poza jego kręgiem.
+   - Jeżeli efekt mówi, że uczestnik nie może opuścić rytuału, magia uniemożliwia mu przekroczenie granicy Kręgu. Dokładna forma tego ograniczenia zależy od natury rytuału (np. niewidzialna bariera, gwałtowny wiatr, magiczne więzy)
+   - Jeżeli efekt powoduje Wyrwanie z Rytuału, sam rytuał gwałtownie usuwa uczestnika poza swój Krąg. Może oznaczać to fizyczne odrzucenie, podmuch energii, szarpnięcie magiczną siłą lub inne gwałtowne zjawisko właściwe dla danego rytuału.
 # Instrumenty Rytualne
 - Niektóre rytuały wymagają lub mogą mieć opcjonalne **Instrumenty Rytualne**
 - Instrumenty są magicznymi przedmiotami służącymi do kontrolowania określonego elementu rytuału. Mogą między innymi:
