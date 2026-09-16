@@ -80,7 +80,6 @@ Każdy rytuał określa:
 	- nie uczestniczy już w jego dalszym utrzymywaniu,
 	- nie jest uwzględniany przy kolejnych efektach Kosztu Rytuału
 	- **nie może ponownie dołączyć do tego samego rytuału**.
-- Postać, która traci przytomność albo w inny sposób staje się niezdolna do dalszego uczestnictwa, również opuszcza rytuał.
 # Instrumenty Rytualne
 - Niektóre rytuały wymagają lub mogą mieć opcjonalne **Instrumenty Rytualne**
 - Instrumenty są magicznymi przedmiotami służącymi do kontrolowania określonego elementu rytuału. Mogą między innymi:
