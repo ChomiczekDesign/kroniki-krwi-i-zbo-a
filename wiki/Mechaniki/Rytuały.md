@@ -25,12 +25,12 @@ Każdy rytuał określa:
 - 4.Sprawdź:
     - sukces lub porażkę,
     - skrócenie czasu przez #Success,
-    - możliwość wystąpienia **Backlashu**.
-- 5.Jeśli wystąpił Backlash — rzuć **d8 + modyfikatory** na tabelę Backlashu.
+    - możliwość wystąpienia [[Backlash|Backlashu]].
+- 5.Jeśli wystąpił [[Backlash]] — rzuć **d8 + modyfikatory** na tabelę Backlashu.
 - 6.Rozpocznij odliczanie pozostałego **Czasu Rytuału**.
 - 7.Za każdą godzinę:
     - wylosuj uczestnika,
-    - wykonaj rzut kosztu rytuału
+    - wykonaj rzut [[Koszt Rytuału|Kosztu Rytuału]]
 - 8.Uczestnicy mogą opuszczać rytuał, ale **nikt nie może dołączyć po jego rozpoczęciu**.
 - 9.Po upływie wymaganego czasu rytuał osiąga swój efekt, o ile nie został wcześniej przerwany.
 
@@ -51,7 +51,6 @@ Każdy rytuał określa:
 	- Sama obecność dodatkowych uczestników nie dodaje #Boost do rzutu rytualnego.
 	- Większa liczba uczestników pozwala jednak rozłożyć pomiędzy więcej osób obciążenie związane z utrzymywaniem rytuału.
 	- **Grupa Minionów** jest traktowana jak jeden uczestnik rytuału, chyba że opis konkretnego rytuału mówi inaczej.
-
 ![[Ofiary Rytualne]]
 
 ## 3. Rzut rytualny
