@@ -51,7 +51,9 @@ Każdy rytuał określa:
 	- Sama obecność dodatkowych uczestników nie dodaje #Boost do rzutu rytualnego.
 	- Większa liczba uczestników pozwala jednak rozłożyć pomiędzy więcej osób obciążenie związane z utrzymywaniem rytuału.
 	- **Grupa Minionów** jest traktowana jak jeden uczestnik rytuału, chyba że opis konkretnego rytuału mówi inaczej.
+
 ![[Ofiary Rytualne]]
+
 ## 3. Rzut rytualny
 - Prowadzący wykonuje test **Old Lore** przeciwko Trudności Rytuału.
 - Trudność może zostać zmodyfikowana przez:
