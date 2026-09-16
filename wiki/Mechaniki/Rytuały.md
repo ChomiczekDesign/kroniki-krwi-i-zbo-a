@@ -6,29 +6,33 @@ Rytuał może trwać od godziny do wielu godzin lub dni. Często wymaga przygoto
 
 Rytuały są osobną formą używania magii i **nie korzystają bezpośrednio z zasad budowania zaklęć**. Każdy rytuał posiada własny efekt, wymagania i parametry.
 
+---
+
 ## Elementy rytuału
 Każdy rytuał określa:
 - **Efekt** — co rytuał ma osiągnąć.
 - **Trudność** — bazową trudność rzutu rytualnego.
-- **Moc Rytuału** — ilość energii przepływającej przez rytuał. Określa koszt Strainu oraz ryzyko [[Backlash|Backlashu]], ale **nie określa jego trudności**.
+- **Moc Rytuału** — ilość energii przepływającej przez rytuał. Określa kość kosztu oraz ryzyko [[Backlash|Backlashu]], ale **nie określa jego trudności**.
 - **Bazowy Czas** — ile czasu trwa rytuał przed uwzględnieniem wyniku rzutu.
 - **Wymagania** — warunki niezbędne do rozpoczęcia rytuału, np. miejsce, pora, komponenty lub określone osoby.
 - **Instrumenty Rytualne** — jeśli są wymagane. Mogą modyfikować trudność, zabezpieczać uczestników albo zmieniać działanie rytuału.
 - **Zasady Specjalne** — wszystkie reguły charakterystyczne dla danego rytuału.
 
 # Skrócona procedura rytuału
-- 1.**Spełnij Wymagania** rytuału i przygotuj Instrumenty.
-- 2.**Wybierz Prowadzącego** i wszystkich uczestników.
-- 3.Prowadzący wykonuje **test Old Lore** przeciwko Trudności Rytuału.
-- 4.Sprawdź:
+1. **Spełnij Wymagania** rytuału i przygotuj Instrumenty.
+2. **Wybierz Prowadzącego** i wszystkich uczestników.
+3. Prowadzący wykonuje **test Old Lore** przeciwko Trudności Rytuału.
+4. Sprawdź:
     - sukces lub porażkę,
     - skrócenie czasu przez #Success,
     - możliwość wystąpienia **Backlashu**.
-- 5.Jeśli wystąpił Backlash — rzuć **d8 + modyfikatory** na tabelę Backlashu.
-- 6.Rozpocznij odliczanie pozostałego **Czasu Rytuału**.
-- 7.Za każdą godzinę:wylosuj uczestnika i przydziel mu Strain wynikający z **Mocy Rytuału**.
-- 8.Uczestnicy mogą opuszczać rytuał, ale **nikt nie może dołączyć po jego rozpoczęciu**.
-- 9.Po upływie wymaganego czasu rytuał osiąga swój efekt, o ile nie został wcześniej przerwany.
+5. Jeśli wystąpił Backlash — rzuć **d8 + modyfikatory** na tabelę Backlashu.
+6. Rozpocznij odliczanie pozostałego **Czasu Rytuału**.
+7. Za każdą godzinę:
+    - wylosuj uczestnika,
+    - wykonaj rzut kosztu rytuału
+8. Uczestnicy mogą opuszczać rytuał, ale **nikt nie może dołączyć po jego rozpoczęciu**.
+9. Po upływie wymaganego czasu rytuał osiąga swój efekt, o ile nie został wcześniej przerwany.
 
 # Przeprowadzanie Rytuału
 
@@ -43,26 +47,20 @@ Każdy rytuał określa:
 ## 2. Prowadzący i uczestnicy
 - Jedna osoba zostaje **Prowadzącym Rytuał** i wykonuje rzut rytualny.
 - W rytuale może uczestniczyć dowolna liczba dodatkowych osób.
-- Aby normalnie uczestniczyć w rytuale, postać musi władać magią, **lub** posiadać co najmniej **1 rangę Old Lore** lub **Sacred Lore**.
+- Aby normalnie uczestniczyć w rytuale, postać musi władać magią, **lub** posiadać co najmniej **1 rangę Old Lore**.
 	- Sama obecność dodatkowych uczestników nie dodaje #Boost do rzutu rytualnego.
 	- Większa liczba uczestników pozwala jednak rozłożyć pomiędzy więcej osób obciążenie związane z utrzymywaniem rytuału.
 	- **Grupa Minionów** jest traktowana jak jeden uczestnik rytuału, chyba że opis konkretnego rytuału mówi inaczej.
-### Ofiary Rytualne
-- Istoty nieposiadające magii ani Old Lore mogą zostać włączone do rytuału jako Ofiary Rytualne
-- Muszą zostać odpowiednio przygotowane lub **naznaczone jako ofiary rytuału**. Gdy tak się stanie:
-	- może uczestniczyć w rytuale mimo braku wymaganych zdolności magicznych,
-	- jest losowany do przyjmowania kosztu utrzymywania rytuału w pierwszej kolejności
-	- zamiast **Strainu otrzymuje odpowiadającą mu liczbę Wounds**.
-- Wykorzystywanie Ofiar jest niezwykle niebezpieczną i destrukcyjną praktyką. Rytuał nie obciąża wtedy wyłącznie wytrzymałości psychicznej i magicznej ofiary — zaczyna bezpośrednio zużywać jej ciało.
+![[Ofiary Rytualne]]
 ## 3. Rzut rytualny
-- Prowadzący wykonuje test **Old Lore** lub **Sacred Lore** przeciwko Trudności Rytuału.
+- Prowadzący wykonuje test **Old Lore** przeciwko Trudności Rytuału.
 - Trudność może zostać zmodyfikowana przez:
 	- instrumenty rytualne,
 	- użyte komponenty,
 	- stan miejsca,
 	- wcześniejsze przygotowania,
 	- inne warunki określone przez dany rytuał.
-- **Moc Rytuału nie wpływa bezpośrednio na jego Trudność.*
+- **Moc Rytuału nie wpływa bezpośrednio na trudność rzutu rytualnego**
 - Rytuał wymaga #Success , aby osiągnąć zamierzony efekt.
 	- **Każdy #Success ponad pierwszy skraca czas rytuału o 1 godzinę** (do minimum 1 h)
 - Jeżeli test zakończy się **porażką**, rytuał rozpada się w 1 godzinie trwania i jest traktowany jako nieudany.
@@ -79,7 +77,7 @@ Każdy rytuał określa:
 - Uczestnik może **dobrowolnie opuścić rytuał w dowolnym momencie**.
 - Po opuszczeniu rytuału:
 	- nie uczestniczy już w jego dalszym utrzymywaniu,
-	- nie może być wybierany do przyjmowania Strainu,
+	- nie jest uwzględniany przy kolejnych efektach Kosztu Rytuału
 	- **nie może ponownie dołączyć do tego samego rytuału**.
 - Postać, która traci przytomność albo w inny sposób staje się niezdolna do dalszego uczestnictwa, również opuszcza rytuał.
 # Instrumenty Rytualne
@@ -97,6 +95,8 @@ Każdy rytuał określa:
 - Instrumenty nie muszą być uniwersalne. Przedmiot przygotowany do konkretnego rytuału może nie mieć żadnego zastosowania przy innym.
 
 ![[Moc Rytuału]]
+
+![[Koszt Rytuału]]
 
 ![[Backlash]]
 
