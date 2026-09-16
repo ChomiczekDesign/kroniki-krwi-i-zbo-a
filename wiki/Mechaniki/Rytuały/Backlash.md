@@ -1,4 +1,3 @@
-# Backlash
 - **Backlash** oznacza gwałtowne wymknięcie się energii rytuału spod kontroli. Jego pojawienie się nie musi oznaczać końca rytuału - może on nadal trwać, ale pojawia się dodatkowy negatywny efekt.
 - Backlash może wystąpić **maksymalnie raz podczas jednego rytuału** i jego pojawienie jest natychmiastowe po rozpoczęciu rytuału.
 - Backlash występuje, jeśli na **rzucie rytualnym** pojawi się: #Despair **lub** odpowiednia liczba #Threat.
