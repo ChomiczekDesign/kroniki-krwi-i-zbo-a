@@ -63,8 +63,8 @@ W trakcie rozgrywki postać może spróbować rozpoznać Motywację innej postac
 - #Threat działa odwrotnie — informacje są mniej precyzyjne, mniej przydatne albo trudniejsze do zastosowania.
 
 ### Dodatkowe efekty
-- #Triumph / #Advantage #Advantage #Advantage: Dodatkowo wybierz **Strength** albo **Flaw** i uzyskaj informacje również na jej temat.
-- #Triumph / #Advantage #Advantage #Advantage #Advantage: Dodatkowo wybierz **Desire** albo **Fear** i uzyskaj informacje również na jej temat.
+- #Triumph / #Advantage #Advantage : Dodatkowo wybierz **Strength** albo **Flaw** i uzyskaj informacje również na jej temat.
+- #Triumph / #Advantage #Advantage #Advantage : Dodatkowo wybierz **Desire** albo **Fear** i uzyskaj informacje również na jej temat.
 - #Triumph: Za zgodą MG możesz zdobyć informacje o **1 Motywacji innej postaci obecnej w scenie**.
 
 ### Interakcje z talentami
