@@ -34,6 +34,10 @@ jobs:
         run: |
           python3 .github/workflows/replace_dice_tags.py
 
+      - name: Inject talent metadata
+        run: |
+          python3 .github/workflows/inject_talent_metadata.py
+
       - name: Build site
         run: |
           ./kiln generate \
