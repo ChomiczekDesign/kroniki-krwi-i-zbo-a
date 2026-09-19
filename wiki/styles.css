@@ -45,3 +45,22 @@ main article blockquote {
 .talent-meta-value {
   padding: 0.45rem 0.8rem;
 }
+
+
+  .talent-db-search,
+  .talent-db-filter {
+    width: 100%;
+  }
+
+  .talent-db-search input,
+  .talent-db-filter select {
+    width: 100%;
+    min-width: 0;
+  }
+
+  .talent-db-count {
+    width: 100%;
+    margin-left: 0;
+  }
+}
+
