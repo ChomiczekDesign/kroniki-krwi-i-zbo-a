@@ -3,3 +3,47 @@ main article blockquote {
   text-align: justify;
   hyphens: auto;
 }
+
+
+/* =========================================
+   Talent metadata
+   ========================================= */
+
+.talent-meta-box {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+
+  margin: 0.25rem 0 1.25rem 0;
+  padding: 0.75rem;
+
+  border: 1px solid rgba(127, 127, 127, 0.35);
+  border-radius: 0.65rem;
+
+  background: rgba(127, 127, 127, 0.07);
+}
+
+.talent-meta-item {
+  display: inline-flex;
+  align-items: center;
+
+  padding: 0.2rem 0.65rem;
+
+  border: 1px solid rgba(127, 127, 127, 0.30);
+  border-radius: 999px;
+
+  background: rgba(127, 127, 127, 0.10);
+
+  font-size: 0.9rem;
+  line-height: 1.4;
+  white-space: nowrap;
+}
+
+.talent-meta-tier {
+  font-weight: 500;
+}
+
+.talent-meta-ranked {
+  font-weight: 600;
+}
