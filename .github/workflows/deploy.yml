@@ -104,6 +104,58 @@ jobs:
 
               path.write_text(html, encoding="utf-8")
           PY
+
+            - name: Add custom site CSS
+        run: |
+          python3 <<'PY'
+          from pathlib import Path
+          import re
+
+          css_path = Path("./wiki/styles.css")
+
+          if not css_path.exists():
+              raise FileNotFoundError(
+                  f"Nie znaleziono pliku CSS: {css_path}"
+              )
+
+          css = css_path.read_text(encoding="utf-8")
+
+          CUSTOM_SITE_STYLE = (
+              '<style id="custom-site-css">\n'
+              + css
+              + '\n</style>'
+          )
+
+          for path in Path("./public").rglob("*.html"):
+              html = path.read_text(encoding="utf-8")
+
+              # Usuń poprzednią wersję, jeśli z jakiegoś powodu już istnieje.
+              html = re.sub(
+                  r'\s*<style id="custom-site-css">.*?</style>',
+                  '',
+                  html,
+                  flags=re.DOTALL
+              )
+
+              # Tak samo jak obecny custom CSS:
+              # wstrzykujemy styl na końcu dokumentu.
+              if "</body>" in html:
+                  html = html.replace(
+                      "</body>",
+                      CUSTOM_SITE_STYLE + "\n</body>",
+                      1
+                  )
+              else:
+                  html += CUSTOM_SITE_STYLE
+
+              path.write_text(
+                  html,
+                  encoding="utf-8"
+              )
+
+          print("[OK] Wstrzyknięto wiki/styles.css do wygenerowanych stron.")
+          PY
+      
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
