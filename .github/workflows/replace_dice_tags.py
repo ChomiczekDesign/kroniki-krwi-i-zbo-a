@@ -240,6 +240,20 @@ def replace_tags(text: str, icon_map: dict[str, str]) -> str:
 def inject_style_block(text: str) -> str:
     if "<style>" in text and "dice-inline" in text:
         return text
+
+    if text.startswith("---\n"):
+        end = text.find("\n---", 4)
+
+        if end != -1:
+            end += len("\n---")
+            return (
+                text[:end]
+                + "\n\n"
+                + INJECTED_STYLE
+                + "\n\n"
+                + text[end:].lstrip()
+            )
+
     return INJECTED_STYLE + "\n\n" + text
 
 
