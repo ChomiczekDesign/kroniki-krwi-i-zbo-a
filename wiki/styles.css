@@ -63,4 +63,310 @@ main article blockquote {
     margin-left: 0;
   }
 }
+/* =========================================
+   Talent database
+   ========================================= */
 
+.talent-db-wrapper {
+  margin-top: 1rem;
+}
+
+
+/* ---------- Controls ---------- */
+
+.talent-db-controls {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: 0.75rem;
+
+  margin: 0 0 1rem 0;
+  padding: 1rem;
+
+  border: 1px solid rgba(127, 127, 127, 0.35);
+  border-radius: 0.65rem;
+
+  background: rgba(127, 127, 127, 0.06);
+}
+
+
+/* Search takes the whole first row */
+
+.talent-db-search {
+  display: flex;
+  flex: 1 1 100%;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.talent-db-search span,
+.talent-db-filter span {
+  font-size: 0.8rem;
+  font-weight: 600;
+  opacity: 0.85;
+}
+
+
+/* Search bar */
+
+.talent-db-search input {
+  width: 100%;
+  min-height: 2.5rem;
+
+  box-sizing: border-box;
+
+  padding: 0.45rem 0.75rem;
+
+  border: 1px solid rgba(127, 127, 127, 0.40);
+  border-radius: 0.45rem;
+
+  background: rgba(127, 127, 127, 0.08);
+  color: inherit;
+
+  font: inherit;
+}
+
+.talent-db-search input:focus {
+  outline: 2px solid rgba(127, 127, 127, 0.45);
+  outline-offset: 1px;
+}
+
+
+/* Dropdown filters */
+
+.talent-db-filter {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.talent-db-filter select {
+  min-width: 9rem;
+  min-height: 2.4rem;
+
+  box-sizing: border-box;
+
+  padding: 0.4rem 2rem 0.4rem 0.7rem;
+
+  border: 1px solid rgba(127, 127, 127, 0.40);
+  border-radius: 0.45rem;
+
+  background: rgba(127, 127, 127, 0.08);
+  color: inherit;
+
+  font: inherit;
+  cursor: pointer;
+}
+
+.talent-db-filter select:hover {
+  background: rgba(127, 127, 127, 0.13);
+}
+
+
+/* Ranked acts visually like a filter button */
+
+.talent-db-ranked {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+
+  min-height: 2.4rem;
+
+  box-sizing: border-box;
+
+  padding: 0.4rem 0.75rem;
+
+  border: 1px solid rgba(127, 127, 127, 0.40);
+  border-radius: 0.45rem;
+
+  background: rgba(127, 127, 127, 0.08);
+
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.talent-db-ranked:hover {
+  background: rgba(127, 127, 127, 0.13);
+}
+
+.talent-db-ranked input {
+  margin: 0;
+  cursor: pointer;
+}
+
+
+/* Clear button */
+
+.talent-db-clear {
+  min-height: 2.4rem;
+
+  box-sizing: border-box;
+
+  padding: 0.4rem 0.8rem;
+
+  border: 1px solid rgba(127, 127, 127, 0.40);
+  border-radius: 0.45rem;
+
+  background: rgba(127, 127, 127, 0.08);
+  color: inherit;
+
+  font: inherit;
+  cursor: pointer;
+}
+
+.talent-db-clear:hover {
+  background: rgba(127, 127, 127, 0.15);
+}
+
+
+/* Result count */
+
+.talent-db-count {
+  margin-left: auto;
+  align-self: center;
+
+  font-size: 0.85rem;
+  opacity: 0.7;
+
+  white-space: nowrap;
+}
+
+
+/* ---------- Table sorting ---------- */
+
+.talent-db-table .talent-db-sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+.talent-db-table .talent-db-sortable:hover {
+  background: rgba(127, 127, 127, 0.12);
+}
+
+.talent-sort-arrow {
+  margin-left: 0.3rem;
+  white-space: nowrap;
+}
+
+
+/* ---------- Talent rows ---------- */
+
+.talent-db-row {
+  cursor: pointer;
+}
+
+.talent-db-row:hover {
+  background: rgba(127, 127, 127, 0.05);
+}
+
+.talent-db-row-open {
+  background: rgba(127, 127, 127, 0.08);
+}
+
+
+/* Expand triangle */
+
+.talent-preview-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 1rem;
+
+  margin: 0 0.6rem 0 0;
+  padding: 0;
+
+  border: 0;
+  background: none;
+
+  color: inherit;
+  font: inherit;
+
+  cursor: pointer;
+  opacity: 0.75;
+}
+
+.talent-preview-toggle:hover {
+  opacity: 1;
+}
+
+
+/* ---------- Expanded preview ---------- */
+
+.talent-preview-row > td {
+  padding: 0 !important;
+  border-top: 0 !important;
+}
+
+.talent-preview-content {
+  /*
+     Lewy padding jest celowo większy:
+     opis zaczyna się za pozycją trójkąta.
+  */
+  padding: 0.9rem 1.25rem 1rem 2.75rem;
+
+  background: rgba(127, 127, 127, 0.06);
+
+  border-left: 3px solid rgba(127, 127, 127, 0.35);
+}
+
+.talent-preview-description {
+  max-width: 55rem;
+}
+
+.talent-preview-content > :first-child,
+.talent-preview-description > :first-child {
+  margin-top: 0;
+}
+
+.talent-preview-content > :last-child,
+.talent-preview-description > :last-child {
+  margin-bottom: 0;
+}
+
+.talent-preview-loading {
+  opacity: 0.7;
+  font-style: italic;
+}
+
+.talent-preview-footer {
+  margin-top: 0.9rem;
+  padding-top: 0.65rem;
+
+  border-top: 1px solid rgba(127, 127, 127, 0.20);
+
+  font-size: 0.9rem;
+}
+
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 700px) {
+  .talent-db-controls {
+    align-items: stretch;
+  }
+
+  .talent-db-search,
+  .talent-db-filter {
+    width: 100%;
+  }
+
+  .talent-db-filter select {
+    width: 100%;
+  }
+
+  .talent-db-ranked,
+  .talent-db-clear {
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .talent-db-count {
+    width: 100%;
+    margin-left: 0;
+  }
+
+  .talent-preview-content {
+    padding-left: 2rem;
+  }
+}
