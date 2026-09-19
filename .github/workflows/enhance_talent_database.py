@@ -183,8 +183,30 @@ SCRIPT = r'''<script id="talent-database-js">
       row.dataset.tier = cellText(row, tierIndex);
       row.dataset.type = cellText(row, typeIndex);
       row.dataset.activation = cellText(row, activationIndex);
-      row.dataset.ranked = cellIsTrue(row, rankedIndex) ? "true" : "false";
+      const isRanked = cellIsTrue(row, rankedIndex);
+
+      row.dataset.ranked = isRanked ? "true" : "false";
       row.dataset.search = normalize(row.textContent);
+      
+      // Zamień tekst true/false na wizualny checkbox.
+      if (rankedIndex !== undefined && row.cells[rankedIndex]) {
+        const rankedCell = row.cells[rankedIndex];
+      
+        rankedCell.innerHTML = "";
+      
+        const checkbox = document.createElement("input");
+        checkbox.type = "checkbox";
+        checkbox.checked = isRanked;
+        checkbox.disabled = true;
+        checkbox.tabIndex = -1;
+        checkbox.className = "talent-ranked-checkbox";
+        checkbox.setAttribute(
+          "aria-label",
+          isRanked ? "Talent rankingowy" : "Talent nierankingowy"
+        );
+      
+        rankedCell.appendChild(checkbox);
+      }
 
       const firstCell = row.cells[0];
       if (!firstCell) return;
@@ -235,6 +257,11 @@ SCRIPT = r'''<script id="talent-database-js">
               <a href="${link.href}">Otwórz pełną stronę →</a>
             </div>
           `;
+          const fullPageLink = content.querySelector(".talent-preview-footer a");
+
+          if (fullPageLink) {
+            fullPageLink.style.color = getComputedStyle(link).color;
+          }
           previewRow.dataset.loaded = "true";
         } catch (error) {
           content.classList.remove("talent-preview-loading");
@@ -402,8 +429,15 @@ SCRIPT = r'''<script id="talent-database-js">
         arrow.textContent = sortDirection === 1 ? " ▲" : " ▼";
 
         const sortedRows = [...rows].sort((a, b) => {
-          const aValue = cellText(a, index);
-          const bValue = cellText(b, index);
+          const aValue =
+            index === rankedIndex
+              ? a.dataset.ranked
+              : cellText(a, index);
+        
+          const bValue =
+            index === rankedIndex
+              ? b.dataset.ranked
+              : cellText(b, index);
 
           const aNumber = Number(aValue.replace(",", "."));
           const bNumber = Number(bValue.replace(",", "."));
