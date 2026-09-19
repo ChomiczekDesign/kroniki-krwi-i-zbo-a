@@ -126,22 +126,27 @@ main article blockquote {
   font: inherit;
 }
 
-.talent-db-search input:focus {
-  outline: 2px solid rgba(127, 127, 127, 0.45);
-  outline-offset: 1px;
-}
 
-
-/* Dropdown filters */
+/* =========================================
+   Filters row
+   ========================================= */
 
 .talent-db-filter {
-  display: flex;
+  display: inline-flex;
+  flex: 0 0 auto;
   flex-direction: column;
   gap: 0.3rem;
+
+  width: auto;
 }
 
+
+/* Dropdowns only as wide as needed */
+
 .talent-db-filter select {
-  min-width: 9rem;
+  width: auto;
+  min-width: 8rem;
+  max-width: 14rem;
   min-height: 2.4rem;
 
   box-sizing: border-box;
@@ -158,15 +163,20 @@ main article blockquote {
   cursor: pointer;
 }
 
-.talent-db-filter select:hover {
-  background: rgba(127, 127, 127, 0.13);
+
+/* Dropdown list itself */
+
+.talent-db-filter select option {
+  color: #111;
+  background: #fff;
 }
 
 
-/* Ranked acts visually like a filter button */
+/* Ranked filter */
 
 .talent-db-ranked {
   display: inline-flex;
+  flex: 0 0 auto;
   align-items: center;
   gap: 0.4rem;
 
@@ -175,6 +185,7 @@ main article blockquote {
   box-sizing: border-box;
 
   padding: 0.4rem 0.75rem;
+  margin-top: 1.3rem;
 
   border: 1px solid rgba(127, 127, 127, 0.40);
   border-radius: 0.45rem;
@@ -185,24 +196,18 @@ main article blockquote {
   white-space: nowrap;
 }
 
-.talent-db-ranked:hover {
-  background: rgba(127, 127, 127, 0.13);
-}
 
-.talent-db-ranked input {
-  margin: 0;
-  cursor: pointer;
-}
-
-
-/* Clear button */
+/* Clear filters */
 
 .talent-db-clear {
+  flex: 0 0 auto;
+
   min-height: 2.4rem;
 
   box-sizing: border-box;
 
   padding: 0.4rem 0.8rem;
+  margin-top: 1.3rem;
 
   border: 1px solid rgba(127, 127, 127, 0.40);
   border-radius: 0.45rem;
@@ -214,21 +219,16 @@ main article blockquote {
   cursor: pointer;
 }
 
-.talent-db-clear:hover {
-  background: rgba(127, 127, 127, 0.15);
-}
 
-
-/* Result count */
+/* Count goes to next line */
 
 .talent-db-count {
-  margin-left: auto;
-  align-self: center;
+  flex: 1 1 100%;
+
+  margin-left: 0;
 
   font-size: 0.85rem;
   opacity: 0.7;
-
-  white-space: nowrap;
 }
 
 
