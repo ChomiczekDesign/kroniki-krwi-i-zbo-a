@@ -339,6 +339,16 @@ main article blockquote {
 }
 
 
+.talent-ranked-checkbox {
+  width: 1rem;
+  height: 1rem;
+
+  margin: 0;
+
+  opacity: 1;
+  cursor: default;
+}
+
 /* ---------- Mobile ---------- */
 
 @media (max-width: 700px) {
