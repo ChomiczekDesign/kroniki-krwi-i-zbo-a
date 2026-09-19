@@ -11,8 +11,8 @@ views:
     name: Table
     order:
       - file.name
-      - Typ
       - Tier
+      - Typ
       - Ranked
       - Aktywacja
     sort:
