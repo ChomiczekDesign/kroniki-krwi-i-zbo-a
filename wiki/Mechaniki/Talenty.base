@@ -2,6 +2,10 @@ filters:
   and:
     - file.inFolder("Mechaniki/Talenty")
     - file.ext == "md"
+properties:
+  file.name:
+    displayName: Talent
+
 views:
   - type: table
     name: Table
