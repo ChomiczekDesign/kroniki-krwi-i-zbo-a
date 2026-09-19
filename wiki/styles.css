@@ -10,27 +10,38 @@ main article blockquote {
    ========================================= */
 
 .talent-meta-box {
+  display: flex;
+  width: fit-content;
+
   margin: 0.5rem 0 1.5rem 0;
-}
 
-.talent-meta-table {
-  width: auto;
-  border-collapse: collapse;
-  margin: 0;
-}
-
-.talent-meta-table th,
-.talent-meta-table td {
   border: 1px solid rgba(127, 127, 127, 0.35);
-  padding: 0.55rem 0.9rem;
+  border-radius: 0.5rem;
+
+  overflow: hidden;
 }
 
-.talent-meta-table th {
+.talent-meta-item {
+  min-width: 8rem;
+
+  border-right: 1px solid rgba(127, 127, 127, 0.35);
+}
+
+.talent-meta-item:last-child {
+  border-right: none;
+}
+
+.talent-meta-label {
+  padding: 0.4rem 0.8rem;
+
   font-weight: 600;
-  text-align: center;
-  min-width: 7rem;
+  font-size: 0.85rem;
+
+  background: rgba(127, 127, 127, 0.10);
+
+  border-bottom: 1px solid rgba(127, 127, 127, 0.35);
 }
 
-.talent-meta-table td {
-  min-width: 7rem;
+.talent-meta-value {
+  padding: 0.45rem 0.8rem;
 }
