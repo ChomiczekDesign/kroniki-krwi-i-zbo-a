@@ -27,8 +27,6 @@ def clean_scalar(value: str):
     if value.lower() == "false":
         return False
 
-    # Obsługa prostych list zapisanych jako:
-    # typ: [Wiedza, Motywacje]
     if value.startswith("[") and value.endswith("]"):
         content = value[1:-1].strip()
 
@@ -45,14 +43,14 @@ def clean_scalar(value: str):
 
 def parse_frontmatter(frontmatter_text: str) -> dict:
     """
-    Prosty parser wystarczający dla naszych metadanych talentów.
+    Prosty parser frontmatteru dla talentów.
 
     Obsługuje np.:
 
-    tier: 1
-    ranked: false
-    aktywacja: Pasywny
-    typ:
+    Tier: "1"
+    Ranked: false
+    Aktywacja: Pasywny
+    Typ:
       - Wiedza
       - Motywacje
     """
@@ -64,15 +62,22 @@ def parse_frontmatter(frontmatter_text: str) -> dict:
         if not raw_line.strip():
             continue
 
-        # Element listy YAML
-        list_match = re.match(r"^\s*-\s+(.+?)\s*$", raw_line)
+        list_match = re.match(
+            r"^\s*-\s+(.+?)\s*$",
+            raw_line
+        )
 
         if list_match and current_key:
-            if not isinstance(data.get(current_key), list):
+            if not isinstance(
+                data.get(current_key),
+                list
+            ):
                 data[current_key] = []
 
             data[current_key].append(
-                clean_scalar(list_match.group(1))
+                clean_scalar(
+                    list_match.group(1)
+                )
             )
             continue
 
@@ -83,6 +88,7 @@ def parse_frontmatter(frontmatter_text: str) -> dict:
 
         key = key.strip()
         value = value.strip()
+
         current_key = key
 
         if value:
@@ -90,18 +96,13 @@ def parse_frontmatter(frontmatter_text: str) -> dict:
         else:
             data[key] = []
 
-
     return data
 
 
 def get_property(data: dict, *names):
     """
-    Pozwala używać zarówno:
-      tier
-    jak i:
-      Tier
-
-    Dzięki temu skrypt jest trochę odporniejszy na stare pliki.
+    Pozwala obsługiwać zarówno polskie,
+    jak i alternatywne nazwy pól.
     """
 
     for name in names:
@@ -131,14 +132,27 @@ def normalize_list(value) -> list[str]:
         return []
 
     if isinstance(value, list):
-        return [str(item) for item in value]
+        return [
+            str(item)
+            for item in value
+        ]
 
     return [str(value)]
 
 
 def build_metadata_box(data: dict) -> str:
-    tier = get_property(data, "tier", "Tier")
-    ranked = get_property(data, "ranked", "Ranked")
+    tier = get_property(
+        data,
+        "tier",
+        "Tier",
+    )
+
+    ranked = get_property(
+        data,
+        "ranked",
+        "Ranked",
+    )
+
     activation = get_property(
         data,
         "aktywacja",
@@ -146,88 +160,165 @@ def build_metadata_box(data: dict) -> str:
         "activation",
         "Activation",
     )
+
     types = normalize_list(
-        get_property(data, "typ", "Typ", "type", "Type")
+        get_property(
+            data,
+            "typ",
+            "Typ",
+            "type",
+            "Type",
+        )
     )
 
-    items = []
+    rows = []
 
     if tier is not None:
-        items.append(
-            f'<span class="talent-meta-item talent-meta-tier">'
-            f'<strong>Tier</strong> {escape(str(tier))}'
-            f'</span>'
+        rows.append(
+            "<tr>"
+            "<th>Tier</th>"
+            f"<td>{escape(str(tier))}</td>"
+            "</tr>"
         )
 
     if activation:
-        items.append(
-            f'<span class="talent-meta-item">'
-            f'{escape(str(activation))}'
-            f'</span>'
+        rows.append(
+            "<tr>"
+            "<th>Aktywacja</th>"
+            f"<td>{escape(str(activation))}</td>"
+            "</tr>"
         )
 
-    for talent_type in types:
-        items.append(
-            f'<span class="talent-meta-item">'
-            f'{escape(talent_type)}'
-            f'</span>'
+    if types:
+        rows.append(
+            "<tr>"
+            "<th>Typ</th>"
+            f"<td>{escape(', '.join(types))}</td>"
+            "</tr>"
         )
 
-    # Pokazujemy wyłącznie, jeśli ranked == true.
     if is_true(ranked):
-        items.append(
-            '<span class="talent-meta-item talent-meta-ranked">'
-            'Rankingowy'
-            '</span>'
+        rows.append(
+            "<tr>"
+            "<th>Rankingowy</th>"
+            "<td>Tak</td>"
+            "</tr>"
         )
 
-    if not items:
+    if not rows:
         return ""
 
     return (
         '<div class="talent-meta-box">\n'
-        + "\n".join(f"  {item}" for item in items)
-        + "\n</div>"
+        '  <table class="talent-meta-table">\n'
+        + "\n".join(
+            f"    {row}"
+            for row in rows
+        )
+        + "\n  </table>\n"
+        "</div>"
     )
 
 
-def remove_and_restore_frontmatter(
+def extract_source_frontmatter(
     source_text: str,
-    built_text: str,
 ):
-    source_match = FRONTMATTER_RE.match(source_text)
+    source_match = FRONTMATTER_RE.match(
+        source_text
+    )
 
     if not source_match:
-        return None, None
+        return None
 
-    frontmatter_block = source_match.group(0).rstrip()
-    frontmatter_content = source_match.group(1)
+    frontmatter_block = (
+        source_match
+        .group(0)
+        .rstrip()
+    )
 
-    # replace_dice_tags.py nie zmienia frontmatteru,
-    # tylko dokleja przed nim swój <style>.
-    # Szukamy więc dokładnego bloku źródłowego w wiki_build.
-    position = built_text.find(frontmatter_block)
-
-    if position == -1:
-        raise RuntimeError(
-            "Nie znaleziono frontmatteru w przetworzonym pliku."
-        )
-
-    content_without_frontmatter = (
-        built_text[:position]
-        + built_text[position + len(frontmatter_block):]
-    ).strip()
+    frontmatter_content = (
+        source_match
+        .group(1)
+    )
 
     return (
         frontmatter_block,
         frontmatter_content,
-        content_without_frontmatter,
     )
 
 
-def insert_box_after_dice_style(
-    frontmatter: str,
-    content: str,
+def remove_frontmatter_from_built(
+    built_text: str,
+    frontmatter_block: str,
+) -> str:
+    """
+    replace_dice_tags.py może dołożyć własny <style>
+    przed frontmatterem.
+
+    Dlatego szukamy dokładnego bloku YAML
+    w wygenerowanym pliku i usuwamy go
+    z obecnej pozycji.
+    """
+
+    position = built_text.find(
+        frontmatter_block
+    )
+
+    if position == -1:
+        raise RuntimeError(
+            "Nie znaleziono frontmatteru "
+            "w przetworzonym pliku."
+        )
+
+    before = built_text[:position]
+
+    after = built_text[
+        position + len(frontmatter_block):
+    ]
+
+    return (
+        before + after
+    ).strip()
+
+
+def split_dice_style(content: str):
+    """
+    Jeśli replace_dice_tags.py dodał
+    blok <style> z klasą dice-inline,
+    oddzielamy go od reszty treści.
+    """
+
+    content = content.strip()
+
+    if (
+        content.startswith("<style>")
+        and "dice-inline" in content
+    ):
+        style_end = content.find(
+            "</style>"
+        )
+
+        if style_end != -1:
+            style_end += len("</style>")
+
+            style_block = (
+                content[:style_end]
+                .strip()
+            )
+
+            body = (
+                content[style_end:]
+                .strip()
+            )
+
+            return style_block, body
+
+    return None, content
+
+
+def build_final_content(
+    frontmatter_block: str,
+    content_without_frontmatter: str,
     box: str,
 ) -> str:
     """
@@ -237,89 +328,99 @@ def insert_box_after_dice_style(
     frontmatter
     ---
 
-    <style>
-      CSS kości
-    </style>
+    <style>kości</style>
 
     <div class="talent-meta-box">
       ...
     </div>
 
-    Treść talentu
+    treść talentu
     """
 
-    content = content.strip()
+    style_block, body = split_dice_style(
+        content_without_frontmatter
+    )
 
-    # replace_dice_tags.py dokleja swój style block na początku.
-    # Zostawiamy go tam, tylko frontmatter przenosimy nad niego.
-    if content.startswith("<style>") and "dice-inline" in content:
-        style_end = content.find("</style>")
+    parts = [
+        frontmatter_block
+    ]
 
-        if style_end != -1:
-            style_end += len("</style>")
-
-            style_block = content[:style_end].strip()
-            body = content[style_end:].strip()
-
-            parts = [
-                frontmatter,
-                style_block,
-            ]
-
-            if box:
-                parts.append(box)
-
-            if body:
-                parts.append(body)
-
-            return "\n\n".join(parts) + "\n"
-
-    parts = [frontmatter]
+    if style_block:
+        parts.append(style_block)
 
     if box:
         parts.append(box)
 
-    if content:
-        parts.append(content)
+    if body:
+        parts.append(body)
 
-    return "\n\n".join(parts) + "\n"
+    return (
+        "\n\n".join(parts)
+        + "\n"
+    )
 
 
-def process_talent(source_path: Path) -> bool:
-    relative = source_path.relative_to(SRC_DIR)
-    built_path = BUILD_DIR / relative
+def process_talent(
+    source_path: Path
+) -> bool:
+    relative = source_path.relative_to(
+        SRC_DIR
+    )
+
+    built_path = (
+        BUILD_DIR / relative
+    )
 
     if not built_path.exists():
         print(
-            f"[POMINIETO] Brak odpowiednika w wiki_build: "
-            f"{relative}"
+            "[POMINIETO] "
+            "Brak odpowiednika "
+            f"w wiki_build: {relative}"
         )
         return False
 
-    source_text = source_path.read_text(encoding="utf-8")
-    built_text = built_path.read_text(encoding="utf-8")
-
-    result = remove_and_restore_frontmatter(
-        source_text,
-        built_text,
+    source_text = source_path.read_text(
+        encoding="utf-8"
     )
 
-    if result[0] is None:
+    built_text = built_path.read_text(
+        encoding="utf-8"
+    )
+
+    frontmatter = (
+        extract_source_frontmatter(
+            source_text
+        )
+    )
+
+    if not frontmatter:
         print(
-            f"[POMINIETO] Brak frontmatteru: {relative}"
+            "[POMINIETO] "
+            f"Brak frontmatteru: {relative}"
         )
         return False
 
     (
         frontmatter_block,
         frontmatter_content,
-        content_without_frontmatter,
-    ) = result
+    ) = frontmatter
 
-    metadata = parse_frontmatter(frontmatter_content)
-    box = build_metadata_box(metadata)
+    metadata = parse_frontmatter(
+        frontmatter_content
+    )
 
-    updated = insert_box_after_dice_style(
+    box = build_metadata_box(
+        metadata
+    )
+
+    content_without_frontmatter = (
+        remove_frontmatter_from_built(
+            built_text,
+            frontmatter_block,
+        )
+    )
+
+    updated = build_final_content(
         frontmatter_block,
         content_without_frontmatter,
         box,
@@ -330,14 +431,18 @@ def process_talent(source_path: Path) -> bool:
         encoding="utf-8",
     )
 
-    print(f"[OK] {relative}")
+    print(
+        f"[OK] {relative}"
+    )
+
     return True
 
 
 def main():
     if not SRC_DIR.exists():
         print(
-            f"[INFO] Folder talentów jeszcze nie istnieje: "
+            "[INFO] Folder talentów "
+            "jeszcze nie istnieje: "
             f"{SRC_DIR}"
         )
         return
@@ -345,17 +450,23 @@ def main():
     if not BUILD_DIR.exists():
         raise FileNotFoundError(
             f"Nie znaleziono {BUILD_DIR}. "
-            "Uruchom najpierw replace_dice_tags.py."
+            "Uruchom najpierw "
+            "replace_dice_tags.py."
         )
 
     processed = 0
 
-    for source_path in sorted(SRC_DIR.rglob("*.md")):
-        if process_talent(source_path):
+    for source_path in sorted(
+        SRC_DIR.rglob("*.md")
+    ):
+        if process_talent(
+            source_path
+        ):
             processed += 1
 
     print(
-        f"[OK] Przetworzono metadane talentów: {processed}"
+        "[OK] Przetworzono "
+        f"metadane talentów: {processed}"
     )
 
 
