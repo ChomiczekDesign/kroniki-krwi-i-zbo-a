@@ -23,6 +23,7 @@ Kroniki rozgrywane są na systemie **[Genesys](https://online.anyflip.com/afeku/
 
 ## [[Podstawy Mechaniki|Podstawy Systemu]]
 - [[Lista Umiejętności]]
+- [[Takenty]]
 - [[Motywacje]]
   - [[Desire]]
   - [[Fear]]
