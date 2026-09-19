@@ -156,6 +156,10 @@ jobs:
           print("[OK] Wstrzyknięto wiki/styles.css do wygenerowanych stron.")
           PY
       
+      - name: Enhance talent database
+        run: |
+          python3 .github/workflows/enhance_talent_database.py
+          
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
