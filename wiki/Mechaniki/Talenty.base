@@ -1,7 +1,7 @@
 filters:
   and:
-    - file.inFolder("3. System&Rules/Talenty")
-    - file.ext != "base"
+    - file.inFolder("Mechaniki/Talenty")
+    - file.ext = "md"
 views:
   - type: table
     name: Table
