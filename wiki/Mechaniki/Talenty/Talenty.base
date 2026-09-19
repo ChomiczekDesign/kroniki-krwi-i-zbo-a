@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.inFolder("3. System&Rules/Talenty")
+    - file.ext != "base"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Typ
+      - Tier
+      - Ranked
+      - Aktywacja
+    sort:
+      - property: Tier
+        direction: DESC
+      - property: Typ
+        direction: DESC
