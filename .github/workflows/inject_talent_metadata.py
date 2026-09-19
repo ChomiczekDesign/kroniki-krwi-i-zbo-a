@@ -171,52 +171,60 @@ def build_metadata_box(data: dict) -> str:
         )
     )
 
-    rows = []
+    columns = []
 
     if tier is not None:
-        rows.append(
-            "<tr>"
-            "<th>Tier</th>"
-            f"<td>{escape(str(tier))}</td>"
-            "</tr>"
+        columns.append(
+            (
+                "Tier",
+                escape(str(tier))
+            )
         )
 
     if activation:
-        rows.append(
-            "<tr>"
-            "<th>Aktywacja</th>"
-            f"<td>{escape(str(activation))}</td>"
-            "</tr>"
+        columns.append(
+            (
+                "Aktywacja",
+                escape(str(activation))
+            )
         )
 
     if types:
-        rows.append(
-            "<tr>"
-            "<th>Typ</th>"
-            f"<td>{escape(', '.join(types))}</td>"
-            "</tr>"
+        columns.append(
+            (
+                "Typ",
+                escape(", ".join(types))
+            )
         )
 
     if is_true(ranked):
-        rows.append(
-            "<tr>"
-            "<th>Rankingowy</th>"
-            "<td>Tak</td>"
-            "</tr>"
+        columns.append(
+            (
+                "Rankingowy",
+                "Tak"
+            )
         )
 
-    if not rows:
+    if not columns:
         return ""
+
+    items = []
+
+    for label, value in columns:
+        items.append(
+            '<div class="talent-meta-item">'
+            f'<div class="talent-meta-label">{label}</div>'
+            f'<div class="talent-meta-value">{value}</div>'
+            '</div>'
+        )
 
     return (
         '<div class="talent-meta-box">\n'
-        '  <table class="talent-meta-table">\n'
         + "\n".join(
-            f"    {row}"
-            for row in rows
+            f"  {item}"
+            for item in items
         )
-        + "\n  </table>\n"
-        "</div>"
+        + "\n</div>"
     )
 
 
