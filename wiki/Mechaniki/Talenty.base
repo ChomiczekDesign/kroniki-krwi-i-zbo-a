@@ -1,7 +1,7 @@
 filters:
   and:
     - file.inFolder("Mechaniki/Talenty")
-    - file.ext = "md"
+    - file.ext == "md"
 views:
   - type: table
     name: Table
