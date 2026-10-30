@@ -43,7 +43,7 @@ Niektórzy bogowie są najmocniej utożsamiani z jednym porządkiem. W innych ro
 
 Iadra jest dzika, pamiętliwa i niepokorna. Przypomina, że nie wszystko można oswoić, nazwać i podporządkować cudzej woli.
 
-### Gwidran
+### [[Setting/Bogowie/Gwidran|Gwidran]]
 
 **Ślepy Łowczy**, bóg polowania, cierpliwości i dyscypliny potrzebnej do osiągnięcia wybranego celu.
 
