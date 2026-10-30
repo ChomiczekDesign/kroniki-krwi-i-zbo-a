@@ -49,7 +49,7 @@ Iadra jest dzika, pamiętliwa i niepokorna. Przypomina, że nie wszystko można 
 
 Zwracają się do niego nie tylko myśliwi i łucznicy, lecz także ludzie zmuszeni działać bez pełnej wiedzy. Gwidran uczy powściągliwości i skupienia, ale przestrzega również przed uporem człowieka, który widzi już tylko swój cel.
 
-### Lissin
+### [[Setting/Bogowie/Lissin|Lissin]]
 
 Lisia bogini krętych ścieżek, samostanowienia, sprytu i świadomie przybieranych twarzy. W starszych tradycjach, szczególnie w Liorze, znana jest również jako **Fiawen**.
 
