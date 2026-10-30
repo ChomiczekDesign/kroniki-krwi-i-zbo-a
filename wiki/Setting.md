@@ -9,6 +9,7 @@
 
 ## Sekcje
 - [[Setting/Magia|Magia i Czary]]
+- [[Setting/Bogowie|Bogowie i wierzenia]]
 
 ### Ludy Świata
 - [[Ludzie]]
