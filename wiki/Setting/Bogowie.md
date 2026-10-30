@@ -37,7 +37,7 @@ Niektórzy bogowie są najmocniej utożsamiani z jednym porządkiem. W innych ro
 
 ## Bogowie Lasu
 
-### Iadra
+### [[Setting/Bogowie/Iadra|Iadra]]
 
 **Babka Borów**, związana z pierwotnym życiem istniejącym niezależnie od człowieka. Daje drewno, zwierzynę, jagody, grzyby i zioła, ale nie pozwala zapomnieć, że Las nie należy do tych, którzy z niego korzystają.
 
