@@ -12,7 +12,7 @@ Najważniejsze informacje o ludziach: **żyją najdłużej do około osiemdziesi
 
 Ludzie są przede wszystkim **rasą przystosowania**. Tam, gdzie inne rasy częściej trzymają się własnych ziem, tradycji albo sposobów życia, ludzie potrafią zakorzenić się w cudzym świecie. Uczą się języków, przyjmują obyczaje, wchodzą w lokalne wspólnoty i znajdują miejsce w krainach, które nie powstały z myślą o nich.
 
-Ich siłą nie jest jednolitość. Człowiek z [[Lior|Lioru]], człowiek z [[Dorzecze|Dorzecza]] i człowiek z [[Imperium Merrowingów]] może różnić się językiem, strojem, prawem, wiarą i wyobrażeniem o świecie tak bardzo, że łatwiej zrozumieją sąsiada innej rasy niż siebie nawzajem. Dla ludzi rasa rzadko jest najważniejszym źródłem tożsamości. Częściej liczy się lud, ziemia, pan, ród, język albo wiara.
+Ich siłą nie jest jednolitość. Człowiek z [[Kraina Jezior|Lioru]], człowiek z [[Dorzecze|Dorzecza]] i człowiek z Imperium Merrowingów może różnić się językiem, strojem, prawem, wiarą i wyobrażeniem o świecie tak bardzo, że łatwiej zrozumieją sąsiada innej rasy niż siebie nawzajem. Dla ludzi rasa rzadko jest najważniejszym źródłem tożsamości. Częściej liczy się lud, ziemia, pan, ród, język albo wiara.
 
 Najważniejszy kontrast ludzi to **powszechność i kruchość**. Są wszędzie, ale nie wszędzie są bezpieczni. Potrafią przetrwać w obcych kulturach, ale właśnie dlatego łatwo stają się częścią cudzych układów, cudzych domów i cudzych konfliktów.
 
@@ -30,7 +30,7 @@ Dla większości mieszkańców świata ludzka kompatybilność nie jest tajemnic
 
 Ludzie nie tworzą jednej kultury. Ich największe wspólnoty i ludy różnią się od siebie sposobem życia, językiem, strojem, prawem i relacją z innymi rasami.
 
-[[Lioreńczycy]] żyją wśród jezior, sadów, bielonych domów i domen czarodziejek. [[Lud Dorzecza]] trzyma się rzek, borów, grodów i małych osad, gdzie prawo zależy od lokalnego pana i siły palisady. [[Merrowingowie]] tworzą wielkie imperium, w którym człowiek może być obywatelem, żołnierzem, uczonym, niewolnikiem albo narzędziem polityki większej niż jego własne życie.
+[[Lioreńczycy]] żyją wśród jezior, sadów, bielonych domów i domen czarodziejek. [[Dorzeczanie|Lud Dorzecza]] trzyma się rzek, borów, grodów i małych osad, gdzie prawo zależy od lokalnego pana i siły palisady. Merrowingowie tworzą wielkie imperium, w którym człowiek może być obywatelem, żołnierzem, uczonym, niewolnikiem albo narzędziem polityki większej niż jego własne życie.
 
 Poza nimi istnieją liczne mniejsze wspólnoty, pograniczne osady, rody kupieckie, grupy wygnańców, służebne rody przy obcych dworach i ludzie żyjący wśród innych ras od tylu pokoleń, że ich własne pochodzenie stało się bardziej opowieścią niż pamięcią.
 

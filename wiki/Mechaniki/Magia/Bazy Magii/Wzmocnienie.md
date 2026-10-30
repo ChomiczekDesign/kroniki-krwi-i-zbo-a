@@ -59,18 +59,18 @@ Bazowa trudność testu wynosi **Average** (#Difficulty #Difficulty).
 - **Epitety:** Zwierzny, Wilczy, Żmijowy, Sękaty, Szponiasty, Kłowy
 ### Polymorph (+#Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 4
-- Wybierz jedno zwierzę i przemień się w nie, łącznie ze zmianą **[[Silhouette]]**.
+- Wybierz jedno zwierzę i przemień się w nie, łącznie ze zmianą **Silhouette**.
 - W tej formie zastępujesz swoje bazowe cechy cechami wybranego zwierzęcia i zyskujesz jego podstawowe zdolności.
 - Jeśli wybrane zwierzę ma **Silhouette 3** lub wyższą, zwiększ trudność testu o +#Difficulty za każdy punkt **Silhouette** powyżej 2.
 - **Epitety:** Przemienny, Zwierzęcy, Skórny, Postaciowy, Przeistoczny, Odmienny
 ### Enlarge/Reduce (+#Difficulty #Difficulty)
 - **Tylko [[Magia Arkana]].**
 - **Minimalna Ranga Magii:** 4
-- Cel może zwiększyć lub zmniejszyć swoją **[[Silhouette]]** o 1 względem wartości bazowej (do minimum 0).
+- Cel może zwiększyć lub zmniejszyć swoją **Silhouette** o 1 względem wartości bazowej (do minimum 0).
   - **Zmniejszenie:** dodaj #Boost #Boost do wszystkich testów **Agility**.
   - **Zwiększenie:** dodaj #Boost #Boost do wszystkich testów **Brawn**.
-- Wydaj #Advantage #Advantage, aby zwiększyć albo zmniejszyć wartość [[Silhouette]] celu o dodatkowe 1. Efekt ten można zastosować wielokrotnie.
-- Jeśli cel osiągnie **[[Silhouette]] 3** lub wyższą, jego zasięg **Brawl** i **Melee** wzrasta do **Short**.
+- Wydaj #Advantage #Advantage, aby zwiększyć albo zmniejszyć wartość Silhouette celu o dodatkowe 1. Efekt ten można zastosować wielokrotnie.
+- Jeśli cel osiągnie **Silhouette 3** lub wyższą, jego zasięg **Brawl** i **Melee** wzrasta do **Short**.
 - **Epitety:** Rozdymny, Skurczny, Miarołamny, Wielkoludy, Drobniaczy, Przeskalny
 ### Strengthen (+#Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 4

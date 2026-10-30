@@ -58,7 +58,7 @@ Magii najczęściej uczy się od drugiego człowieka. Mistrz, zielarka, czarodzi
 
 Niektórzy uczą się inaczej. Ktoś zapamięta pieśń od wędrownego bajarza. Ktoś odziedziczy jeden znak po babce. Ktoś przez lata powtarza tę samą czynność, aż nabiera ona mocy. Ludzie szczególnie wrażliwi na magię potrafią odkryć prosty czar sami, choć rzadko rozumieją wtedy, co dokładnie zrobili.
 
-Zorganizowana nauka magii jest rzadka. W [[Kraina Jezior|Liorze]] czarodziejki przyjmują uczennice i prowadzą niewielkie kręgi nauki. W [[Imperium Merrowingów]] istnieją miejsca, gdzie kształci się magów bojowych, ale są to wyjątki, nie norma świata. Księgi magiczne istnieją, lecz są cenne, nierówne i często trudniejsze do zrozumienia niż sam nauczyciel.
+Zorganizowana nauka magii jest rzadka. W [[Kraina Jezior|Liorze]] czarodziejki przyjmują uczennice i prowadzą niewielkie kręgi nauki. W Imperium Merrowingów istnieją miejsca, gdzie kształci się magów bojowych, ale są to wyjątki, nie norma świata. Księgi magiczne istnieją, lecz są cenne, nierówne i często trudniejsze do zrozumienia niż sam nauczyciel.
 
 ## Magia i bogowie
 

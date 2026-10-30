@@ -9,7 +9,7 @@ Zaklęcia tego typu służą do bezpośredniego zadawania obrażeń, wywoływani
 - Bazowy zasięg zaklęcia wynosi **[[Zasięgi|Short]]**.
 - Bazowa trudność testu wynosi **Easy** (#Difficulty).
 - Zaklęcie zadaje **obrażenia równe Charakterystyce powiązanej** z wybraną Tradycją Magiczną używaną do wykonania ataku, plus 1 dodatkowe obrażenie za każdy nieanulowany #Success.
-- Zaklęcie nie posiada bazowo wartości **[[Critical Injury|Critical Rating]]**, więc może zadać **[[Critical Injury]]** wyłącznie poprzez #Triumph.
+- Zaklęcie nie posiada bazowo wartości **Critical Rating**, więc może zadać **Critical Injury** wyłącznie poprzez #Triumph.
 
 ## Zawsze dostępne opcje
 - **Increase Range** (**+ #Difficulty**)  
@@ -22,7 +22,7 @@ Zaklęcia tego typu służą do bezpośredniego zadawania obrażeń, wywoływani
 ### Inferior (-#Difficulty #Difficulty)
 - To chaotyczne zaklęcie nie daje się precyzyjnie ukierunkować.
 - Dodaj #Threat #Threat #Threat do testu.
-- Nie mozesz czerpać żadnych korzyści z manewru [[Aim]] podczas używania tego zaklęcia.
+- Nie mozesz czerpać żadnych korzyści z manewru Aim podczas używania tego zaklęcia.
 - **Epitety:** Dziki, Niesforny, Splątany, Opętany, Pomiotny
 
 ### Weak (-#Difficulty)
@@ -31,35 +31,35 @@ Zaklęcia tego typu służą do bezpośredniego zadawania obrażeń, wywoływani
 - **Epitety:** Blady, Przygasły, Wątły, Zwiędły, Wypłowiały, Kruchy
 
 ### Long-Casting (-#Difficulty)
-- Atak zyskuje cechę [[Prepare]] 2.
+- Atak zyskuje cechę Prepare 2.
 - **Epitety:** Rytualny, Inkantacyjny, Obrzędowy, Zbierany, Odczyniany
 
 ### Gathering (-#Difficulty)
-- Atak zyskuje cechę [[Slow-Firing]] 1.
+- Atak zyskuje cechę Slow-Firing 1.
 - **Epitety:** Zbierany, Nastrajany, Oddechowy, Doładowany, Napięty
 
 ### Blast (+#Difficulty)
-- Atak zyskuje cechę [[Blast]] o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
+- Atak zyskuje cechę Blast o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
 - **Epitety:** Gromowy, Hukowy, Uderzeniowy, Ziemiorytny, Piorunowy, Wichrowy
 
 ### Deadly (+#Difficulty)
-- Atak zyskuje **[[Critical Injury|Critical Rating]] 2** oraz cechę [[Vicious]] o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
+- Atak zyskuje **Critical Rating 2** oraz cechę Vicious o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
 - **Epitety:** Rzeźny, Krwawy, Śmiertny, Katowski, Bezlitosny, Wilczy, Żmijowy, Żelazny
 
 ### Burn (+#Difficulty)
-- Atak zyskuje cechę [[Burn]] o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
+- Atak zyskuje cechę Burn o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
 - **Epitety:** Żarowy, Ognisty, Żrący, Gorączkowy, Iskrny
 
 ### Ensnare (+#Difficulty)
-- Atak zyskuje cechę [[Ensnare]] o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
+- Atak zyskuje cechę Ensnare o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
 - **Epitety:** Korzenny, Pnący, Ciernisty, Żywiczny, Pajęczy, Bagienny, Szronowy, Lodowy, Łodygowy
 
 ### Impact (+#Difficulty)
-- Atak zyskuje cechy [[Knockdown]] oraz [[Disorient]] o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
+- Atak zyskuje cechy Knockdown oraz Disorient o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
 - **Epitety:** Młotny, Kamienny, Wstrząsowy, Łomowy, Taranowy
 
 ### Stunning (+#Difficulty)
-- Atak zyskuje cechę [[Stun]] o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
+- Atak zyskuje cechę Stun o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
 - **Epitety:** Ogłuszający, Dzwonny, Poraźny, Gromowy, Grzmiący
 
 ### Manipulative (+#Difficulty)
@@ -69,24 +69,24 @@ Zaklęcia tego typu służą do bezpośredniego zadawania obrażeń, wywoływani
 
 ### Non-Lethal (+#Difficulty)
 - **Tylko [[Magia Werbalna]].**
-- Atak zyskuje cechę [[Stun Damage]].
+- Atak zyskuje cechę Stun Damage.
 - **Epitety:** Uciszający, Uśpienny, Miłosierny, Ujarzmiający, Zaklinający
 
 ### Piercing (+#Difficulty)
-- Atak zyskuje cechę [[Pierce]] o wartości równej połowie rangi postaci w odpowiedniej umiejętności **Knowledge** (zaokrąglając w górę).
+- Atak zyskuje cechę Pierce o wartości równej połowie rangi postaci w odpowiedniej umiejętności **Knowledge** (zaokrąglając w górę).
 - **Epitety:** Przeszywny, Igłowy, Kolczy, Klinowy, Kłowy, Sierpowy, Strzałkowy, Gwoździowy, Cierniowy
 
 ### Area-of-Effect (+#Difficulty)
-- Atak zyskuje cechę [[Auto-Fire]].
-- Aby skorzystać z cechy [[Auto-Fire]], musisz dodatkowo zwiększyć trudność testu o 1 (jak przy normalnym odpaleniu tej cechy na broni).
+- Atak zyskuje cechę Auto-Fire.
+- Aby skorzystać z cechy Auto-Fire, musisz dodatkowo zwiększyć trudność testu o 1 (jak przy normalnym odpaleniu tej cechy na broni).
 - **Epitety:** Rozszczepny, Salwowy, Gradny, Rojny
 
 ### Destructive (+#Difficulty)
-- Atak zyskuje cechę [[Sunder]].
+- Atak zyskuje cechę Sunder.
 - **Epitety:** Łamiący, Kruszący, Rdzewny, Pękający, Rozbrajający
 
 ### Linked (+#Difficulty)
-- Atak zyskuje cechę [[Linked]] o wartości równej **połowie rangi** postaci w odpowiedniej umiejętności **Knowledge** (zaokrąglając w górę).
+- Atak zyskuje cechę Linked o wartości równej **połowie rangi** postaci w odpowiedniej umiejętności **Knowledge** (zaokrąglając w górę).
 - **Epitety:** Łańcuchowy, Skaczący, Rezonujący, Echem-Idący, Splotny, Gromowaty
 
 ### Strong (+#Difficulty)
@@ -95,12 +95,12 @@ Zaklęcia tego typu służą do bezpośredniego zadawania obrażeń, wywoływani
 
 ### Unerring (+#Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 4
-- Atak zyskuje cechę [[Guided]] o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
+- Atak zyskuje cechę Guided o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
 - **Epitety:** Wiodący, Tropiący, Węszący, Przeznaczony, Wiedziony, Wskazany
 
 ### Devastating (+#Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 4
-- Atak zyskuje cechy [[Sunder]] oraz [[Pierce]] o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
+- Atak zyskuje cechy Sunder oraz Pierce o wartości równej randze postaci w odpowiedniej umiejętności **Knowledge**.
 - **Epitety:** Oblężny, Pogromny, Wyrębny, Ziemiołamny, Wichrołomny
 
 ### Empowered (+#Difficulty #Difficulty)
@@ -110,7 +110,7 @@ Zaklęcia tego typu służą do bezpośredniego zadawania obrażeń, wywoływani
 
 ### Poisonous (+#Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 4
-- Jeśli atak zada obrażenia, cel musi natychmiast wykonać test [[Resilience]].
+- Jeśli atak zada obrażenia, cel musi natychmiast wykonać test Resilience.
 - Bazowa trudność tego testu wynosi **Hard**, a MG może ją dodatkowo upgrade’ować odpowiednią umiejętnością według własnej oceny.
 - W przypadku niepowodzenia:
   - **Basic Poison:** cel otrzymuje [[Wounds]] i [[Strain]] równe randze postaci w odpowiedniej umiejętności **Knowledge**. Efekt ten liczy się jako trucizna.
@@ -120,7 +120,7 @@ Zaklęcia tego typu służą do bezpośredniego zadawania obrażeń, wywoływani
 ### Shattering (+#Difficulty #Difficulty)
 - **Tylko [[Magia Pierwotna]].**
 - **Minimalna Ranga Magii:** 4
-- Atak zyskuje cechy [[Sunder]] oraz [[Breach]].
+- Atak zyskuje cechy Sunder oraz Breach.
 - **Epitety:** Pierwotny, Pradawny, Rozsadzający, Światołomny, Kamieniołamny, Gromorodny, Żelazokruszny
 
 ## Przykładowe nazwy zaklęcia

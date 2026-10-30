@@ -2,7 +2,7 @@
 
 ![[Wizualizacja - Wielka Brama.png]]
 
-[[Wielka Brama]] to kraina, w której góry rozstępują się przed drogą. Między [[Milczące Góry|Milczącymi Górami]] a [[Grzbiet Świata|Grzbietem Świata]] ciągną się wyżyny, wzgórza, skalne ostańce i stare kamienne trakty, po których od stuleci jadą wozy, stada, kupcy, poborcy danin, najemnicy i wygnańcy. To miejsce kurzu, wiatru i ruchu. Na głównym szlaku handel wymusza bezpieczeństwo. Poza nim zaczynają się cudze prawa, stare ruiny i wzgórza, na których lepiej nie nocować.
+[[Wielka Brama]] to kraina, w której góry rozstępują się przed drogą. Między [[Milczące Góry|Milczącymi Górami]] a Grzbietem Świata ciągną się wyżyny, wzgórza, skalne ostańce i stare kamienne trakty, po których od stuleci jadą wozy, stada, kupcy, poborcy danin, najemnicy i wygnańcy. To miejsce kurzu, wiatru i ruchu. Na głównym szlaku handel wymusza bezpieczeństwo. Poza nim zaczynają się cudze prawa, stare ruiny i wzgórza, na których lepiej nie nocować.
 
 Najważniejsze informacje o Wielkiej Bramie: **jest to kraina szlaków, handlu, wyżyn, pasiek, miast kupieckich i starego cesarskiego porządku**. Formalnie należy do Krasnoludzkiego Cesarstwa, ale w praktyce żyje rytmem lokalnych panów, kupieckich państw-miast, małych księstw, orczych klanów i interesów wszystkich, którzy korzystają ze szlaku. Główne drogi są względnie bezpieczne, bo handel musi działać. Poza nimi zaczynają się boczne trakty, dawne ruiny, kurhany, skalne ostańce i miejsca, gdzie starsza warstwa świata nadal wychodzi spod kamienia.
 
@@ -38,7 +38,7 @@ Na głównym trakcie można rozmawiać o cenie miodu, żelaza i ochrony karawany
 
 ![[Mapa - Wielka Brama.png]]
 
-Wielka Brama leży między [[Milczące Góry|Milczącymi Górami]] od południowego zachodu a [[Grzbiet Świata|Grzbietem Świata]] od północnego wschodu. Tworzy szeroką przerwę między masywami górskimi i najważniejsze przejście między północą a południem kontynentu.
+Wielka Brama leży między [[Milczące Góry|Milczącymi Górami]] od południowego zachodu a Grzbietem Świata od północnego wschodu. Tworzy szeroką przerwę między masywami górskimi i najważniejsze przejście między północą a południem kontynentu.
 
 Od zachodu i południa łączy się z drogami prowadzącymi ku [[Dorzecze|Dorzeczu]] oraz dalej ku obszarom kontrolowanym przez różne lokalne siły. Od wschodu i południowego wschodu ma kontakt z ziemiami [[Kraina Jezior|Lioru]] i dalszymi szlakami prowadzącymi ku południu. Jej położenie sprawia, że jest zarówno bramą handlową, jak i politycznym pograniczem.
 

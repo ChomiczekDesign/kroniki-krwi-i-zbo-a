@@ -14,7 +14,7 @@ Nie są to zaklęcia niebezpieczne ani potężne. Ich siła nie polega na niszcz
 - **Increase Range** (**+ #Difficulty**)  
   Zwiększ zasięg zaklęcia o 1 **zakres zasięgu**. Opcję tę można wybrać wielokrotnie.
 - **Increase Encumbrance** (**+ #Difficulty**)  
-  Zwiększ maksymalny **[[Encumbrance]]** przedmiotu o 1. Opcję tę można wybrać wielokrotnie.
+  Zwiększ maksymalny **Encumbrance** przedmiotu o 1. Opcję tę można wybrać wielokrotnie.
 - **Additional Target** (**+ #Difficulty**)  
   Zaklęcie oddziałuje na 1 dodatkowy cel znajdujący się w zasięgu zaklęcia. Dodatkowo możesz wydać #Advantage, aby objąć zaklęciem 1 dodatkowy cel za każde wydane #Advantage.
 ## Przykładowe Efekty Użyteczne
@@ -24,7 +24,7 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 
 ### Oczyszczenie
 **[[Koncentracja]]:** Nie  
-- Zaklęcie oczyszcza, brudzi albo porządkuje 1 niewielki nieożywiony przedmiot, ubranie, powierzchnię lub porcję materiału o **[[Encumbrance]] 0** w zasięgu **[[Zasięgi|Short]]**.
+- Zaklęcie oczyszcza, brudzi albo porządkuje 1 niewielki nieożywiony przedmiot, ubranie, powierzchnię lub porcję materiału o **Encumbrance 0** w zasięgu **[[Zasięgi|Short]]**.
 - Efekt może usunąć kurz, błoto, sadzę, zwykły brud, prosty zapach albo powierzchowne zabrudzenie.
 - Nie usuwa trucizn, chorób, kwasów, efektów magicznych ani innych podobnych zagrożeń.
 
@@ -67,7 +67,7 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 
 ### Poruszenie
 **[[Koncentracja]]:** Tak  
-- Zaklęcie pozwala czarującemu narzucić prosty ruch 1 nieożywionemu przedmiotowi o **[[Encumbrance]] 0** znajdującemu się w zasięgu **[[Zasięgi|Short]]**.
+- Zaklęcie pozwala czarującemu narzucić prosty ruch 1 nieożywionemu przedmiotowi o **Encumbrance 0** znajdującemu się w zasięgu **[[Zasięgi|Short]]**.
 - Przedmiot może zostać powoli uniesiony, przesunięty, przyciągnięty, odepchnięty, obrócony albo podtrzymany w miejscu.
 - Zamiast poruszać przedmiotem swobodnie, czarujący może wymusić na nim 1 prostą czynność, taką jak otwarcie niezaryglowanych drzwiczek, przesunięcie zasłony, obrócenie kartki, pociągnięcie za sznurek, zamknięcie szkatułki albo strącenie lekkiego, niestabilnego obiektu.
 - Ruch wywołany zaklęciem jest powolny, wyraźny i niezdarny. Nie wystarcza do atakowania, zadawania obrażeń, przewracania celów, rozbrajania postaci ani wykonywania czynności wymagających szybkości, siły lub precyzji.
@@ -107,20 +107,20 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 
 ### Porządek
 **[[Koncentracja]]:** Nie  
-- Zaklęcie układa, składa, zbiera albo sortuje niewielką liczbę drobnych, lekkich przedmiotów o **[[Encumbrance]] 0** znajdujących się w zasięgu **[[Zasięgi|Short]]**.
+- Zaklęcie układa, składa, zbiera albo sortuje niewielką liczbę drobnych, lekkich przedmiotów o **Encumbrance 0** znajdujących się w zasięgu **[[Zasięgi|Short]]**.
 - Może zebrać rozsypane monety, ułożyć papiery w stos, zwinąć sznurek, poskładać ubranie, uporządkować narzędzia albo rozdzielić podobne przedmioty według oczywistej cechy.
 - Nie pozwala znaleźć ukrytych informacji, rozwiązać zagadki, wykryć fałszerstwa ani wykonać pracy wymagającej testu umiejętności.
 
 
 ### Smak
 **[[Koncentracja]]:** Nie  
-- Zaklęcie zmienia smak albo zapach pożywienia o **[[Encumbrance]] 0** w zasięgu **[[Zasięgi|Short]]**.
+- Zaklęcie zmienia smak albo zapach pożywienia o **Encumbrance 0** w zasięgu **[[Zasięgi|Short]]**.
 - Efekt może sprawić, że jedzenie lub napój stanie się słodszy, bardziej gorzki, kwaśny, słony, świeższy, przyprawiony, mdły albo pozbawiony nieprzyjemnego aromatu.
 - Zmiana dotyczy wyłącznie doznań zmysłowych. Zaklęcie nie poprawia jakości pożywienia, nie usuwa trucizn, chorób, zepsucia, skażenia, działania alchemicznego ani faktycznych właściwości substancji.
 
 #### Wzmocnienie (+ #Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 3
-- Wzmocniony efekt pozwala rzeczywiście poprawić jakość pożywienia, napoju albo innej nieożywionej substancji o **[[Encumbrance]] 0**, zamiast jedynie maskować jej smak lub zapach.
+- Wzmocniony efekt pozwala rzeczywiście poprawić jakość pożywienia, napoju albo innej nieożywionej substancji o **Encumbrance 0**, zamiast jedynie maskować jej smak lub zapach.
 - Zaklęcie może odświeżyć jedzenie, usunąć naturalne zepsucie, poprawić jego właściwości odżywcze albo uczynić je zdatnym do spożycia, zgodnie z decyzją MG.
 - Zgodnie z decyzją MG, zaklęcie może usunąć z pożywienia trucizny, choroby, efekty magiczne, lub toksyny znane rzucającemu.
 - Zaklęcie nie tworzy wartościowego pożywienia z niczego i nie zwiększa jego ilości, ale może poprawić jego jakość i wartość odżywczą.
@@ -142,7 +142,7 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 
 ### Temperatura
 **[[Koncentracja]]:** Tak  
-- Zaklęcie ogrzewa, schładza albo utrzymuje temperaturę nieożywionej materii o **[[Encumbrance]] 0** w zasięgu **[[Zasięgi|Short]]**.
+- Zaklęcie ogrzewa, schładza albo utrzymuje temperaturę nieożywionej materii o **Encumbrance 0** w zasięgu **[[Zasięgi|Short]]**.
 - Efekt może podgrzać posiłek, schłodzić napój, ogrzać kamień, ochłodzić metalowy kubek albo utrzymać niewielki przedmiot lub porcję materii w pożądanej temperaturze.
 - Zaklęcie może również kontrolować temperaturę istniejącego płomienia, żaru albo innego źródła ciepła, o ile ma ono wystarczające paliwo lub warunki, aby utrzymać wskazany poziom ciepła.
 - Zmiana temperatury zachodzi powoli. W ustrukturyzowanym starciu zaklęcie co do zasady nie zapewnia użytecznego efektu bojowego, choć MG może pozwolić osiągnąć zauważalny rezultat po wielu turach koncentracji.
@@ -164,7 +164,7 @@ Jeśli efekt posiada czas trwania, trwa 5 minut poza ustrukturyzowanym starciem 
 
 ### Wilgoć
 **[[Koncentracja]]:** Nie  
-- Zaklęcie osusza albo zwilża 1 niewielki nieożywiony przedmiot, ubranie, księgę, porcję materiału o **[[Encumbrance]] 0** albo małą powierzchnię w zasięgu **[[Zasięgi|Short]]**.
+- Zaklęcie osusza albo zwilża 1 niewielki nieożywiony przedmiot, ubranie, księgę, porcję materiału o **Encumbrance 0** albo małą powierzchnię w zasięgu **[[Zasięgi|Short]]**.
 - Może usunąć wodę, wilgoć, rosę, zwykły deszcz albo rozlany płyn o neutralnym działaniu.
 - Może również lekko zwilżyć, zrosić albo namoczyć powierzchnię, materiału, zbierając wilgoć z powietrza lub najbliższego otoczenia.
 	- Jeśli w miejscu działania jest bardzo sucho, gorąco albo brakuje dostępnej wilgoci, MG może zwiększyć trudność testu albo uznać, że bazowy efekt nie wystarczy do wywołania zauważalnego rezultatu.

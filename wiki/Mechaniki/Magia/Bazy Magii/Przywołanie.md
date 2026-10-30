@@ -10,7 +10,7 @@ Zaklęcia tego typu pozwalają powoływać do istnienia przedmioty, narzędzia, 
 - Jeśli test zakończy się sukcesem, postać przyzywa jedno z poniższych:
   - proste narzędzie bez ruchomych części (na przykład łopatę albo kilof),
   - jednoręczną broń białą bez ruchomych części (na przykład miecz albo nóż),
-  - **Miniona** nie większego niż **[[Silhouette]] 1** (na przykład zwierzę, magiczną istotę, ducha żywiołu), o której istnieniu wie lub potrafi opisać.
+  - **Miniona** nie większego niż **Silhouette 1** (na przykład zwierzę, magiczną istotę, ducha żywiołu), o której istnieniu wie lub potrafi opisać.
 - Przywołany przedmiot albo istota pojawia się w zasięgu **[[Zasięgi|Engaged]]** względem czarującego.
 - Przywołany przedmiot albo istota pozostaje obecna do końca następnej tury czarującego.
 - Jeśli postać przywołuje stworzenie, zachowuje się ono zgodnie z najlepszym przybliżeniem swoich naturalnych instynktów, według decyzji MG.
@@ -40,12 +40,12 @@ Zaklęcia tego typu pozwalają powoływać do istnienia przedmioty, narzędzia, 
 - **Epitety:** Zakotwiczony, Skuty, Uwiązany, Wrośnięty, Nieruchomy
 
 ### Medium Summon (+#Difficulty)
-- Czarujący może przywołać bardziej złożone narzędzie z ruchomymi częściami, **Rivala** nie większego niż **[[Silhouette]] 1** albo broń dwuręczną.
+- Czarujący może przywołać bardziej złożone narzędzie z ruchomymi częściami, **Rivala** nie większego niż **Silhouette 1** albo broń dwuręczną.
 - **Epitety:** Przyzwany, Wywołany, Zwołany, Zlepiony, Składany
 
 ### Grand Summon (+#Difficulty #Difficulty)
 - **Minimalna Ranga Magii:** 4
-- Czarujący może przywołać niemal dowolne narzędzie (według decyzji MG), dowolną broń (według decyzji MG) albo istotę typu **Rival** lub **Nemesis** o **[[Silhouette]] 3** lub mniejszej.
+- Czarujący może przywołać niemal dowolne narzędzie (według decyzji MG), dowolną broń (według decyzji MG) albo istotę typu **Rival** lub **Nemesis** o **Silhouette 3** lub mniejszej.
 - **Epitety:** Wielki, Poważny, Srogi, Pradawny, Zawołany
 
 ### Horrifying (+#Difficulty #Difficulty)

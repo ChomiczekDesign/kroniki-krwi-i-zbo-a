@@ -47,7 +47,7 @@ Gdy czarodziejka jest dobra, jej domena może kochać ją szczerze. Gdy jest okr
 
 ### Zaprzysiężeni
 
-[[Zaprzysiężeni]] są dla pospólstwa ideałem rycerskim. Dzieci słuchają opowieści o nich jak o bohaterach: wojownikach pięknych, odważnych i wiernych swojej pani. Dla wielu chłopców zostanie Zaprzysiężonym jest marzeniem równie wielkim, jak dla wielu dziewczynek zostanie uczennicą czarodziejki.
+Zaprzysiężeni są dla pospólstwa ideałem rycerskim. Dzieci słuchają opowieści o nich jak o bohaterach: wojownikach pięknych, odważnych i wiernych swojej pani. Dla wielu chłopców zostanie Zaprzysiężonym jest marzeniem równie wielkim, jak dla wielu dziewczynek zostanie uczennicą czarodziejki.
 
 Elity patrzą na nich trzeźwiej. Zaprzysiężony jest wojownikiem, sługą i narzędziem czarodziejki. Czasem także jej kochankiem, ulubieńcem albo ozdobą dworu. Wykona jej rozkaz, nawet jeśli pospólstwo wolałoby widzieć w nim rycerza bez skazy.
 

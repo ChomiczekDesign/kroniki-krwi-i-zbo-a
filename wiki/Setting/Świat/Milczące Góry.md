@@ -18,7 +18,7 @@ Najważniejszy kontrast regionu to **zamieszkane podnóża i martwe centrum gór
 
 Milczące Góry dzielą się na cztery główne części: 
 
-**Zachodnie Ramię** opiera się o [[Podgórze]]. Jest szerokie, surowe i pocięte głębokimi dolinami oraz wysokimi grzbietami. Osady trzymają się niższych partii i zewnętrznych zboczy, bo wyżej zaczyna się teren zbyt stromy, zbyt dziki i zbyt pusty, by ludzie albo orkowie mogli czuć się tam pewnie.
+**Zachodnie Ramię** opiera się o Pogórze. Jest szerokie, surowe i pocięte głębokimi dolinami oraz wysokimi grzbietami. Osady trzymają się niższych partii i zewnętrznych zboczy, bo wyżej zaczyna się teren zbyt stromy, zbyt dziki i zbyt pusty, by ludzie albo orkowie mogli czuć się tam pewnie.
 
 **Wschodnie Ramię** opiera się o [[Wielka Brama|Wielką Bramę]]. Jest łagodniejsze i węższe, z niższymi szczytami oraz bardziej otwartymi stokami. Na pierwszy rzut oka bywa najbardziej przychylne, ale pod tym spokojniejszym obrazem kryją się stare bory, jaskinie i dzikie miejsca, w których żyją rzeczy starsze od obecnych ludów.
 
@@ -42,7 +42,7 @@ Milczące Góry są największym pasmem górskim kontynentu i układają się w 
 
 Południowa ściana pasma jest znacznie bardziej stroma niż północna. Od strony [[Kraina Jezior|Krainy Jezior]] góry wznoszą się niemal jak kamienny mur. Prawie nikt tam nie mieszka poza pojedynczymi, odizolowanymi wioskami i nielicznymi klanami orków. Nie ma tam prawdziwego przejścia ani warunków, by rozwinęło się większe osadnictwo.
 
-Dla [[Kraina Jezior|Krainy Jezior]] Milczące Góry są granicą i ścianą. Dla [[Wielka Brama|Wielkiej Bramy]] — krańcem świata dróg. Dla [[Imperium Merrowingów]] — miejscem, za którym zaczyna się ziemia zbyt trudna, by łatwo nią rządzić albo ją wykorzystać.
+Dla [[Kraina Jezior|Krainy Jezior]] Milczące Góry są granicą i ścianą. Dla [[Wielka Brama|Wielkiej Bramy]] — krańcem świata dróg. Dla Imperium Merrowingów — miejscem, za którym zaczyna się ziemia zbyt trudna, by łatwo nią rządzić albo ją wykorzystać.
 
 ## Geografia
 

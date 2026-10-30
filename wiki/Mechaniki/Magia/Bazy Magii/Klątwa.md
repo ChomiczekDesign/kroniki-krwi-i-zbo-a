@@ -28,7 +28,7 @@ Zaklęcia tego typu służą do osłabiania przeciwników, nakładania na nich n
 
 ### Immobilize (+#Difficulty)
 - **Tylko [[Magia Werbalna]]**
-- Cel otrzymuje stan **[[Immobilized]]**.
+- Cel otrzymuje stan **Immobilized**.
 - Na początku każdej swojej tury może wykonać przeciwstawny test **Athletics** lub **Discipline** przeciw **Discipline** czarującego, aby pozbyć się tego stanu.
 - Za każdą wcześniejszą próbę zyskuje 1 dodatkowy #Boost do kolejnej próby.
 - Jeśli efekt ten zostanie połączony z **Paralyzed**, cel wykonuje tylko jeden test. Sukces kończy oba efekty.
@@ -53,7 +53,7 @@ Zaklęcia tego typu służą do osłabiania przeciwników, nakładania na nich n
 ### Paralyzed (+#Difficulty #Difficulty)
 - **Tylko [[Magia Werbalna]]**
 - **Minimalna Ranga Magii:** 4
-- Cel otrzymuje stan **[[Staggered]]** na czas trwania zaklęcia.
+- Cel otrzymuje stan **Staggered** na czas trwania zaklęcia.
 - Na początku każdej swojej tury może wykonać przeciwstawny test **Athletics** lub **Discipline** przeciw **Discipline** czarującego, aby pozbyć się tego stanu.
 - Za każdą wcześniejszą próbę zyskuje 1 dodatkowy #Boost do kolejnej próby.
 - Jeśli efekt ten zostanie połączony z **Immobilize**, cel wykonuje tylko jeden test. Sukces kończy oba efekty.

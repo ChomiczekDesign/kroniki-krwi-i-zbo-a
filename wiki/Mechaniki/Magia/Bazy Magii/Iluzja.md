@@ -5,7 +5,7 @@ Zaklęcia tego typu pozwalają zmieniać sposób, w jaki inni postrzegają świa
 ## Podstawowy Efekt
 **[[Koncentracja]]:** Tak
 
-- Używając [[Magia Arkana|Magii Arkana]], czarujący wybiera 1 stworzenie, grupę **Minionów**, miejsce albo obiekt o maksymalnej **[[Silhouette]] 1**, znajdujący się w zasięgu **[[Zasięgi|Short]]**, a następnie wykonuje test **Iluzji**.
+- Używając [[Magia Arkana|Magii Arkana]], czarujący wybiera 1 stworzenie, grupę **Minionów**, miejsce albo obiekt o maksymalnej **Silhouette 1**, znajdujący się w zasięgu **[[Zasięgi|Short]]**, a następnie wykonuje test **Iluzji**.
 - Bazowa trudność testu wynosi **Easy** (#Difficulty).
 - Jeśli test zakończy się sukcesem, czarujący wywołuje wobec celu jeden z poniższych efektów:
   - czyni cel niewidzialnym,
@@ -51,7 +51,7 @@ Zaklęcia tego typu pozwalają zmieniać sposób, w jaki inni postrzegają świa
 
 ### Increased Size (+#Difficulty)
 - **Tylko [[Magia Arkana]].**
-- Iluzja może objąć obiekt albo obszar o 1 większej **[[Silhouette]]**.
+- Iluzja może objąć obiekt albo obszar o 1 większej **Silhouette**.
 - Efekt ten można wybrać wielokrotnie.
 - **Epitety:** Rozlany, Rozpostarty, Rozciągnięty, Rozdmuchany, Rozległy
 

@@ -5,16 +5,16 @@ Zaklęcia tego typu służą do leczenia ran, usuwania dolegliwości i przywraca
 ## Podstawowy Efekt
 **[[Koncentracja]]:** Nie
 
-- Czarujący może użyć **[[Magia Pierwotna|Magii Pierwotnej]]** do leczenia obrażeń albo usuwania **[[Critical Injury]]**.
+- Czarujący może użyć **[[Magia Pierwotna|Magii Pierwotnej]]** do leczenia obrażeń albo usuwania **Critical Injury**.
 - Przy wykonywaniu testu wybiera 1 cel w zasięgu **[[Zasięgi|Short]]**, który nie jest **incapacitated**.
 - Bazowa trudność testu zależy od stanu celu:
   - **Easy** (#Difficulty), jeśli **[[Wounds]]** celu są mniejsze niż połowa **[[Wounds#Wound Threshold|Wound Threshold]]**
   - **Average** (#Difficulty #Difficulty), jeśli **[[Wounds]]** celu są większe niż połowa **[[Wounds#Wound Threshold|Wound Threshold]]**
   - **Hard** (#Difficulty #Difficulty #Difficulty), jeśli **[[Wounds]]** celu są równe **[[Wounds#Wound Threshold|Wound Threshold]]**
-  - **Trudność Critical Injury**, jeśli zaklęcie ma usunąć **[[Critical Injury]]**
+  - **Trudność Critical Injury**, jeśli zaklęcie ma usunąć **Critical Injury**
 - Przy sukcesie:
   - postać leczy 1 [[Wounds|Wound]], a następnie leczy 1 dodatkowy [[Wounds|Wound]] za każde pełne nieanulowane #Success #Success oraz 1 [[Strain]] za każde pełne nieanulowane #Advantage #Advantage,
-  - usuwa **[[Critical Injury]]**, na który cierpi cel.
+  - usuwa **Critical Injury**, na który cierpi cel.
 
 ## Zawsze dostępne opcje
 - **Increase Range** (**+ #Difficulty**)  
@@ -41,8 +41,8 @@ Zaklęcia tego typu służą do leczenia ran, usuwania dolegliwości i przywraca
 ### Cleanse (+#Difficulty)
 - **Tylko [[Magia Pierwotna]].**
 - Wybierz jedną truciznę, chorobę albo inne szkodliwe schorzenie, które obecnie działa na cel.
-- Przy sukcesie cel może natychmiast wykonać test [[Resilience]], aby pozbyć się tej dolegliwości.
-- Do tego testu [[Resilience]] dodaj wszystkie pozostałe nieanulowane #Success i #Advantage z testu tego zaklęcia.
+- Przy sukcesie cel może natychmiast wykonać test Resilience, aby pozbyć się tej dolegliwości.
+- Do tego testu Resilience dodaj wszystkie pozostałe nieanulowane #Success i #Advantage z testu tego zaklęcia.
 - **Epitety:** Oczyszczający, Odczyniany, Ziołowy, Kąpielny, Zdejmujący
 
 ### Restoration (+#Difficulty)

@@ -20,7 +20,7 @@ Zaklęcia tego typu służą do tworzenia magicznych barier chroniących czaruj�
 
 ### Immobile (-#Difficulty)
 - Cel może korzystać z tej Bariery tylko tak długo, jak nie używa manewrów do poruszania się.
-- Wykonanie manewru [[Move]] natychmiast kończy działanie efektu na tym celu.
+- Wykonanie manewru Move natychmiast kończy działanie efektu na tym celu.
 - **Epitety:** Zakotwiczony, Uwiązany, Przyziemiony, Przykuty, Wrośnięty
 
 ### Obscure (+#Difficulty)

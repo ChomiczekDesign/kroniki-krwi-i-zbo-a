@@ -36,7 +36,7 @@ Czasem w tych lasach można trafić na święty gaj, kamienny krąg, stary kurha
 
 ![[Mapa - Dorzecze.png]]
 
-Dorzecze od południa opiera się o [[Milczące Góry]], od północy graniczy z morzem, od wschodu z [[Wielka Brama|Wielką Bramą]] oraz górami [[Grzbiet Świata|Grzbietu Świata]], a od zachodu z Gardzielą Milczących Gór, za którą zaczynają się ziemie Imperium Merrowingów.
+Dorzecze od południa opiera się o [[Milczące Góry]], od północy graniczy z morzem, od wschodu z [[Wielka Brama|Wielką Bramą]] oraz górami Grzbietu Świata, a od zachodu z Gardzielą Milczących Gór, za którą zaczynają się ziemie Imperium Merrowingów.
 
 Rzeki Dorzecza uchodzą ku morzu. Bliżej północy kraina robi się chłodniejsza i bardziej otwarta. Pojawiają się tam osady rybackie, miejsca spławu drewna, więcej kupców, łodzi i bursztynu znajdowanego po sztormach. Dla większości mieszkańców Dorzecza morze pozostaje jednak daleką granicą świata; ważniejsza jest najbliższa rzeka, las i droga do sąsiedniej osady.
 
@@ -104,7 +104,7 @@ Największe zagrożenia Dorzecza wynikają z odległości między osadami, słab
 
 Najczęstsze zagrożenia to złe drogi, błoto, powodzie, choroby, głód, dzikie zwierzęta, zbóje, watażkowie, łowcy niewolników i orcze zagony. W Dorzeczu nie trzeba wielkiej wojny, by osada zniknęła z mapy. Wystarczy zima, napad, choroba albo lokalny pan, którego władza akurat sięgnęła za daleko.
 
-W Dorzeczu działają ludzie i grupy handlujące niewolnikami. Porwani trafiają do [[Imperium Merrowingów]], do możnych z [[Wielka Brama|Wielkiej Bramy]], do orkowych klanów albo tam, gdzie ktoś zapłaci za ręce do pracy, ciało do walki czy człowieka, którego nikt nie będzie szukał zbyt daleko. Forty niewolnicze nie są tu ani legalne, ani nielegalne w uporządkowanym sensie. Są po prostu miejscami: palisadami w lesie, starymi obozami przy rzece, pustymi zagrodami z ciężkimi bramami, które ożywają, gdy przybywa grupa poganiaczy.
+W Dorzeczu działają ludzie i grupy handlujące niewolnikami. Porwani trafiają do Imperium Merrowingów, do możnych z [[Wielka Brama|Wielkiej Bramy]], do orkowych klanów albo tam, gdzie ktoś zapłaci za ręce do pracy, ciało do walki czy człowieka, którego nikt nie będzie szukał zbyt daleko. Forty niewolnicze nie są tu ani legalne, ani nielegalne w uporządkowanym sensie. Są po prostu miejscami: palisadami w lesie, starymi obozami przy rzece, pustymi zagrodami z ciężkimi bramami, które ożywają, gdy przybywa grupa poganiaczy.
 
 Osobnym zagrożeniem są rzeki, lasy i rzeczy, które w nich mieszkają. Dorzeczanie nie tłumaczą wszystkiego duchami, ale wiedzą, że w świecie są miejsca, których lepiej nie drażnić. Rzeki mają swoje humory: jedna zabiera brzegi co roku, druga nie oddaje ciał, trzecia płynie spokojnie, dopóki ktoś nie spróbuje przejść jej nocą.
 
