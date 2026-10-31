@@ -2,7 +2,7 @@
 
 Gwidran, nazywany najczęściej **Ślepym Łowczym**, jest bogiem polowania, cierpliwości, dyscypliny i siły skupionej na wybranym celu.
 
-Kapłani opisują go jako boga Lasu naznaczonego wpływem Pola: dziką siłę, która narzuca samej sobie wystarczający porządek, aby osiągnąć zamierzony cel. Gwidran nie porządkuje całego Lasu. Porządkuje własne kroki, kiedy przez niego idzie.
+Żercy opisują go jako boga Lasu naznaczonego wpływem Pola: dziką siłę, która narzuca samej sobie wystarczający porządek, aby osiągnąć zamierzony cel. Gwidran nie porządkuje całego Lasu. Porządkuje własne kroki, kiedy przez niego idzie.
 
 Jego ślepota nie oznacza, że utracił wzrok, aby zyskać doskonalszy sposób widzenia. Przypomina, że żaden łowca nie zna wszystkich ścieżek zwierzyny, żadna metoda nie odsłania całego świata, a człowiek często musi działać, zanim zdobędzie całkowitą pewność.
 
