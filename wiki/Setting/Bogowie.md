@@ -57,7 +57,7 @@ Lissin patronuje tym, którzy pragną sami wybrać swoje imię, drogę i miejsce
 
 ## Bogowie Rzeki
 
-### Luna i Nur
+### [[Setting/Bogowie/Luna i Nur|Luna i Nur]]
 
 Nierozłączna para związana z nurtem losu, przemijaniem oraz następstwem przyczyny i skutku.
 
