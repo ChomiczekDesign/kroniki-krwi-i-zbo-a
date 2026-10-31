@@ -81,7 +81,7 @@ Imię **Gromr** jest powszechniejsze w głębi lądu, szczególnie wśród wojow
 
 ## Bogowie Pola
 
-### Miaromir
+### [[Setting/Bogowie/Miaromir|Miaromir]]
 
 Bóg miary, fachu, pracy, obowiązku i porządku opartego na jasno wyznaczonych zasadach.
 
