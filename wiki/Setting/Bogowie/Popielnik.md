@@ -2,7 +2,7 @@
 
 Popielnik jest bogiem domowego ogniska, bezpiecznego wnętrza, strzeżonych granic i odpowiedzialności za powierzonych człowiekowi ludzi, zwierzęta oraz miejsce.
 
-Kapłani opisują go jako boga Pola naznaczonego wpływem Lasu. Pole nadaje mu trwałość, porządek, powinności oraz granicę oddzielającą wnętrze od zewnętrza. Las wnosi terytorialność, czujność, instynkt obronny i zdolność pokazania kłów temu, co zagraża chronionej całości.
+Żercy opisują go jako boga Pola naznaczonego wpływem Lasu. Pole nadaje mu trwałość, porządek, powinności oraz granicę oddzielającą wnętrze od zewnętrza. Las wnosi terytorialność, czujność, instynkt obronny i zdolność pokazania kłów temu, co zagraża chronionej całości.
 
 Popielnik nie jest więc wyłącznie bogiem domu ani strażnikiem paleniska. Jest **ładem, który ma kły**.
 
