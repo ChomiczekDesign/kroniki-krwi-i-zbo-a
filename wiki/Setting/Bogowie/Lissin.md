@@ -2,7 +2,7 @@
 
 Lissin, w starszych tradycjach nazywana **Fiawen**, jest lisią boginią samostanowienia, krętych dróg, świadomie przybieranych twarzy, sprytu, ciekawości i pierwszego zauroczenia.
 
-Kapłani opisują ją jako boginię Lasu naznaczoną wpływem Rzeki. Łączy nieoswojoną indywidualność z możliwością odejścia, zmiany drogi oraz wymknięcia się roli, którą inni uznali za niezmienną.
+Żercy opisują ją jako boginię Lasu naznaczoną wpływem Rzeki. Łączy nieoswojoną indywidualność z możliwością odejścia, zmiany drogi oraz wymknięcia się roli, którą inni uznali za niezmienną.
 
 Lissin nie pozwala światu ostatecznie zdecydować, kim człowiek ma być, jakie imię ma nosić ani jaką twarz powinien pokazywać. Patronuje tym, którzy sami pragną określić swoje miejsce, ale nie uwalnia ich od konsekwencji podjętych decyzji.
 
@@ -88,13 +88,13 @@ Przebiegła może ocalić słabszego, lecz nie przywiązuje szczególnej wartoś
 
 **Symbol:** Kwiat paproci przedstawiany jako ośmioramienna gwiazda pomiędzy dwoma liśćmi paproci.
 
-Mniej znany i bardziej zamknięty aspekt Lissin. Wyraża część człowieka, której nie wyczerpuje żadna publiczna rola i której nie musi on w całości oddawać rodzinie, małżonkowi, władcy, kapłanowi ani kochankowi.
+Mniej znany i bardziej zamknięty aspekt Lissin. Wyraża część człowieka, której nie wyczerpuje żadna publiczna rola i której nie musi on w całości oddawać rodzinie, małżonkowi, władcy, żercy ani kochankowi.
 
 Zwracają się do niej ludzie chroniący własne myśli, osoby żyjące pod stałą obserwacją, szpiedzy oraz ci, którzy potrzebują zachować coś wyłącznie dla siebie.
 
 Niepoznana różni się od O Wielu Twarzach. O Wielu Twarzach wybiera obraz pokazywany światu. Niepoznana strzeże tego, czego nie pokazuje się nikomu.
 
-Jej kapłanki mogą nosić gładkie ludzkie maski z lisimi uszami, pozbawione widocznych oczu, ust i innych rysów. Skrajnością tego aspektu jest zamknięcie tak całkowite, że żadna relacja nie może już dotrzeć do prawdziwej osoby.
+Jej żerczynie mogą nosić gładkie ludzkie maski z lisimi uszami, pozbawione widocznych oczu, ust i innych rysów. Skrajnością tego aspektu jest zamknięcie tak całkowite, że żadna relacja nie może już dotrzeć do prawdziwej osoby.
 
 ### Uwodzicielka
 
