@@ -65,7 +65,7 @@ Luna odczytuje kierunek, w którym zmierzają wydarzenia. Nur pokazuje, do czego
 
 W jednych opowieściach są małżonkami, w innych kochankami, rodzeństwem, bliźniętami albo dwojgiem odwiecznych towarzyszy. Luna jest także boginią snów, w których czasem można zobaczyć możliwy dalszy bieg wydarzeń.
 
-### Bajar
+### [[Setting/Bogowie/Bajar|Bajar]]
 
 Bóg słowa i wszystkiego, co przechodzi z człowieka na człowieka: wieści, pieśni, opowieści, imion, obietnic, emocji oraz sekretów.
 
