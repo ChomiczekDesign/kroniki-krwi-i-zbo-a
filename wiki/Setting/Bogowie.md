@@ -87,7 +87,7 @@ Bóg miary, fachu, pracy, obowiązku i porządku opartego na jasno wyznaczonych 
 
 Zwracają się do niego rzemieślnicy, prawodawcy, sędziowie, władcy oraz ludzie niosący odpowiedzialność za innych. Miaromir uczy, że to, co ma trwać, musi zostać wykonane właściwie — nawet jeśli wymaga to wysiłku, dyscypliny i podporządkowania.
 
-### Ziarnica
+### [[Setting/Bogowie/Ziarnica|Ziarnica]]
 
 **Matka Ziemia**, bogini narodzin, wzrastania, pożywienia i troski potrzebnej każdemu życiu.
 
