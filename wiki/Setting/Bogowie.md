@@ -2,7 +2,7 @@
 
 Dla większości ludów bogowie nie są przedmiotem wiary w takim znaczeniu, w jakim można wierzyć lub nie wierzyć w ich istnienie. **Istnieją.**
 
-Opowieści mogą różnić się co do ich czynów, kapłani mogą spierać się o ich wolę, a całe ludy mogą odmiennie rozumieć ich naturę. Samo istnienie boskich sił rzadko bywa jednak kwestionowane.
+Opowieści mogą różnić się co do ich czynów, żercy mogą spierać się o ich wolę, a całe ludy mogą odmiennie rozumieć ich naturę. Samo istnienie boskich sił rzadko bywa jednak kwestionowane.
 
 Nie oznacza to, że człowiek może łatwo poznać zamiary boga albo otrzymać od niego jednoznaczną odpowiedź.
 
