@@ -2,7 +2,7 @@
 
 Ziarnica, nazywana powszechnie **Matką Ziemią** oraz **Panią Ziarna i Kości**, jest boginią narodzin, wzrastania, pożywienia, gojenia i powrotu ciała do ziemi.
 
-Kapłani opisują ją jako boginię Pola naznaczoną wpływem Rzeki. Pole daje jej ziemię zdolną przyjmować, przechowywać i wydawać życie. Rzeka wnosi wodę, przemianę i następstwo kolejnych pokoleń.
+Żercy opisują ją jako boginię Pola naznaczoną wpływem Rzeki. Pole daje jej ziemię zdolną przyjmować, przechowywać i wydawać życie. Rzeka wnosi wodę, przemianę i następstwo kolejnych pokoleń.
 
 Ziarnica nie jest martwą ziemią. Jest ziemią nawodnioną: zdolną przyjąć ziarno, pozwolić mu wzrosnąć, wydać plon, a następnie przyjąć pozostałości życia, z których kiedyś wyrosną kolejne formy.
 
