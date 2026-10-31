@@ -95,7 +95,7 @@ Rodzące proszą ją o bezpieczny poród, znachorki o zagojenie ran, opiekunowie
 
 Do Ziarnicy należą też skarby ukryte pod ziemią oraz nadzieja, że po każdej zimie może nadejść nowa wiosna.
 
-### Popielnik
+### [[Setting/Bogowie/Popielnik|Popielnik]]
 
 Bóg domowego ogniska, schronienia i bezpiecznej granicy oddzielającej to, co swoje, od niebezpieczeństw znajdujących się na zewnątrz.
 
