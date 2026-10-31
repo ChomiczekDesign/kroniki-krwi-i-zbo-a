@@ -2,7 +2,7 @@
 
 **Styr** i **Gromr** są dwoma imionami tego samego boga gwałtownego ruchu, przełamania i zmiany, która przestała prosić o pozwolenie.
 
-Kapłani opisują go jako boga Rzeki naznaczonego wpływem Lasu. Rzeka nadaje mu ruch, kierunek i przechodzenie z jednego stanu w drugi. Las czyni ten ruch dzikim, gwałtownym, nieprzewidywalnym i trudnym do ujarzmienia.
+Żercy opisują go jako boga Rzeki naznaczonego wpływem Lasu. Rzeka nadaje mu ruch, kierunek i przechodzenie z jednego stanu w drugi. Las czyni ten ruch dzikim, gwałtownym, nieprzewidywalnym i trudnym do ujarzmienia.
 
 Spokojna rzeka omija przeszkodę. Styr częściej ją podmywa, rozrywa albo przelewa się przez nią.
 
