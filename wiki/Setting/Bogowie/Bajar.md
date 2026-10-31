@@ -2,7 +2,7 @@
 
 Bajar jest bogiem słowa, wieści, opowieści i wszystkiego, co przechodzi od człowieka do człowieka, nabiera rozpoznawalnej formy i zaczyna żyć pomiędzy ludźmi.
 
-Kapłani opisują go jako boga Rzeki naznaczonego wpływem Pola. Rzeka pozwala słowu, emocji albo działaniu płynąć dalej. Pole nadaje im formę, dzięki której mogą zostać powtórzone, zapamiętane i podjęte przez innych.
+Żercy opisują go jako boga Rzeki naznaczonego wpływem Pola. Rzeka pozwala słowu, emocji albo działaniu płynąć dalej. Pole nadaje im formę, dzięki której mogą zostać powtórzone, zapamiętane i podjęte przez innych.
 
 Bajar nie jest wyłącznie bogiem mowy. Można rozpoznać go także we wspólnym rytmie pracy, nastroju udzielającym się tłumowi, publicznej obietnicy, powierzonym sekrecie oraz więzi powstającej między obcymi ludźmi dzielącymi drogę.
 
