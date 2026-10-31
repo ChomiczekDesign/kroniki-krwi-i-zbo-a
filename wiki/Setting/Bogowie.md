@@ -71,7 +71,7 @@ Bóg słowa i wszystkiego, co przechodzi z człowieka na człowieka: wieści, pi
 
 Zwracają się do niego bajarze, posłańcy, kupcy, negocjatorzy, powiernicy i ludzie wyruszający we wspólną drogę. Bajar może związać ludzi słowem, zestroić ich we wspólnym działaniu albo zmącić panującą między nimi zgodę.
 
-### Styr i Gromr
+### [[Setting/Bogowie/Styr i Gromr|Styr i Gromr]]
 
 Dwa imiona tego samego boga gwałtownego ruchu, przełamania i zmiany, której nie sposób już zatrzymać.
 
